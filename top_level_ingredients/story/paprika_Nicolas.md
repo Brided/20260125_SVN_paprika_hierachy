@@ -7,13 +7,14 @@
 In N chapters (TBD)
 
 ## Description
-This story follows Nicolas, a lonely and aimless young anthropomorphic bird, as he attempts to reconnect with friends and find purpose in his life. Through a series of interactions with his acquaintances, including Nathan and Gerald, Nicolas embarks on a journey of self-discovery, friendship, and ultimately love. The narrative explores themes of loneliness, connection, and personal growth as Nicolas navigates his relationships and confronts his feelings for Gerald.
+This story follows Nicolas, a lonely and aimless young anthropomorphic bird, as he attempts to reconnect with friends and find purpose in his life.
+Through a series of interactions with his acquaintances, including Nathan and Gerald, Nicolas hoes on a journey of self-discovery, friendship, and ultimately love.
 
 ## Chapters
 - Chapter 1: First Steps In Meeting People, Nathan
 %Short: Nicolas starts reaching out to friends, starting with Nathan and Gerald.
-  - Scene 1.1: Rotting In Bed        - draft (completed? Probably)
-  - Scene 1.2: Gerald Comes To Apt   - completed
+  - Scene 1.1: Rotting In Bed        - draft
+  - Scene 1.2: Gerald Comes To Apt   - draft
   - Scene 1.3: On The Street         - To be started
   - Scene 1.4: Nathan's Shop         - To be started
   
@@ -24,7 +25,9 @@ This story follows Nicolas, a lonely and aimless young anthropomorphic bird, as 
 
 -Chapter 2: Searching For Work, Job Hunt
 %Short: Nicolas looks for jobs, with help from Gerald, Nathan maybe.
-  
+  - Scene 2.1: Thinking Of Jobs
+<!-- No, what??? This is stupid!-->
+
 
 - Chapter 3: Exploring New Connections, Anthony
 %Short: Anthony texted yesterday, Nicolas visits Anthony's restaurant.
