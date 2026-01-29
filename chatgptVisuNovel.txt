@@ -1,0 +1,62 @@
+Ast 🍳🧠
+
+Yes—that’s a perfect way to think about VNs: a recursive recipe of units, each built from smaller “ingredients.” Let’s cook it systematically.
+
+1️⃣ Top-level “dish”: the visual novel
+
+The VN itself is a dish, composed of multiple recipes:
+
+- Story / Plot
+- Characters
+- Dialogue & Choices
+- Scenes & Backgrounds
+- Sprites & Animations
+- Audio (music, SFX)
+- UI / Dialogue boxes
+- Branching / State system
+
+Each of these is a level 0 ingredient.
+
+2️⃣ Level -1 ingredients (what builds the level 0 items)
+
+Level 0	                     Level -1 Ingredients
+
+- Story / Plot               Chapters → Scenes → Paragraphs / Beats
+- Characters	               Name, Personality, Sprite set, Voice
+- Dialogue & Choices	       Lines, Choices, Branch targets, Flags
+- Scenes & Backgrounds	     Background art, Props, Camera angles
+- Sprites & Animations       Poses, Expressions, Animations, Rig
+- Audio	                     Music tracks, SFX clips, Voice lines
+- UI / Dialogue boxes	       Box graphics, Fonts, Colors, Layout
+- Branching / State system	 Variables, Flags, Event triggers
+  
+3️⃣ Level -2 ingredients (leaf units)
+
+Keep breaking down until you reach atomic units you can finish in isolation:
+
+Level -1	             Leaf units (finishable)
+
+- Paragraph / Beat	   Single sentence / line
+- Sprite set	         Single sprite / single pose / single expression
+- Animation	           Single keyframe / small loop / one action
+- Background	         One image layer / sky / wall / prop
+- Music track	         One loop, one instrument / stem
+- Choice	             One decision option
+- Flag / Variable	     Boolean, integer, or string
+- Dialogue box	       One visual template / color / font
+
+4️⃣ Recursive insight
+
+Each leaf unit can be finished independently.
+Level -1 ingredients are “interfaces” or small recipes combining leaves.
+Level 0 items are composed of several level -1 ingredients, often mocked at first.
+The full VN is just one big recipe combining all level 0 items.
+
+5️⃣ Mocking in recipe terms
+
+Leaf units = actual ingredients (real sugar, flour, salt)
+Level -1 recipes = test bowls / mixtures (might use substitutes)
+Level 0 = main dish assembly (VN logic)
+Full VN = plated, served meal
+
+You don’t need final chocolate chips (sprites) to bake the cake (mechanics)—just placeholders.
