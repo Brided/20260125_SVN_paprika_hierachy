@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.8.2" hexVersion="0x020802f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-01-30 12:51:33">
-  <project id="ba72b21e-b4bc-48b6-9dd5-1b777d4eb4b2" saveCount="16" autoCount="604" editTime="95921">
+<novelWriterXML appVersion="2.8.2" hexVersion="0x020802f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-01-30 17:12:18">
+  <project id="ba72b21e-b4bc-48b6-9dd5-1b777d4eb4b2" saveCount="18" autoCount="605" editTime="95972">
     <name>20260125_SVN_paprika</name>
     <author>Brided</author>
   </project>
@@ -62,7 +62,7 @@
       <name status="sb517b6" import="ie71627" active="yes">Mom Calls</name>
     </item>
     <item handle="d97c1374a04b2" parent="a7b093e9e0e86" root="343b3b7c1640c" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H3" charCount="1855" wordCount="342" paraCount="17" cursorPos="838" />
+      <meta expanded="no" heading="H3" charCount="1855" wordCount="342" paraCount="17" cursorPos="2087" />
       <name status="s2cda52" import="ie71627" active="yes">Scene 1.2: Bull Barges In</name>
     </item>
     <item handle="3541a04417329" parent="a7b093e9e0e86" root="343b3b7c1640c" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
