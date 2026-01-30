@@ -18,6 +18,10 @@ Nicolas is lying in bed, staring at the ceiling, feeling purpose-less and lonely
 - StoryBeat_Internal_Monologue
 
 ## Script
+@char: Char_Nicolas
+@pov: Char_Nicolas
+@location: NicolasHouse
+
 **% Scene:** Bedroom, afternoon
 **% Time:** 14:00, Saturday
 **% BG_SFX:** calm ambience, with bird chirps
@@ -41,7 +45,7 @@ n_thought "I just… don’t know how to… how to say…"
 n_thought "How to make myself out there…"
 n_thought "…"
 
-n_thought "The only solution I can think of… Just be reckless…"
+n_thought "The only solution I can come up with is… Just to be reckless…"
 n_thought "Talk to anyone who looks interesting…"
 n_thought "…"
 
@@ -61,6 +65,24 @@ n_thought "I don't think Gerald resents me for not talking for a long time."
 n_thought "Maybe I should text him first."
 n_thought "But then I have a crush on him… so… Idk."
 
+- Nicolas sits up on his bed, phone in hand.
+
+**% Show:** Phone, friends' contacts on the screen
+
+**(MENU)** Player chooses from a list of friends’ contact list.
+• "Big Bull Gerald" (Will happen no matter what)
+• "Nathan" (Will be met, regardless)
+
+**(FIRST CHOICE)**
+n_thought "Who do I text?"
+
+**(CHOOSE AGAIN)**
+n_thought "Now to figure out who else to text…"
+n_thought "Who do I text?"
+
+**(NO MORE CHOICES / END CHOICES)**
+n_thought "Well… I guess that's all for now."
+
 - Then choice of friend and texting selected friend paragraph
 - Repeat until every friend is contacted
 
@@ -78,14 +100,23 @@ In: Scene 1.1 (After Texting Friends Section)
 
 ## Description
 
-Nicolas has finished texting his friends. He stands up and looks out the window, reflecting on his feelings of uncertainty and loneliness. He then walks around his room before eventually eating dinner.
+Nicolas has finished texting his friends. He stands up and looks out the window, reflecting on his feelings of uncertainty and loneliness. He then walks around his room.
 
 ## Script
+
+n_thought "Weird… I only have three contacts saved on my phone…"
+n_thought "…"
+n_thought "I wasn't very outgoing back then…"
+n_thought "Maybe that's why I don't have many friends…"
+
+n "sigh…"
 
 n_narrate "_(I look out the window as I put down my phone.)_"
 
 n_thought "There's all people who all got it figured out…"
 n_thought "And I don't… What am I?"
 
-n_narrate "_(I stand up and walk around.)_"
-n_narrate "_(Afterwards I eat dinner.)_"
+n_narrate "_(I stand up and walk around a bit.)_"
+
+- Nicolas's mom phones him as he does light activities around his apartment.
+<!-- Or dad?? Idk -->

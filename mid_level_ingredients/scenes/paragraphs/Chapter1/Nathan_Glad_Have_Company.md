@@ -1,7 +1,7 @@
 # Paragraph: Nathan Glad To Have Company
 
 @tag: Paragraph_Nathan_Talk
-% Short: Nathan is glad to have company.
+%Short: Nathan is glad to have company.
 
 In: Scene 1.1 (Texting Friends Section)
 
@@ -19,7 +19,7 @@ n_sms "Hey, Nathan. How are you?"
 n_sms "Are you busy?"
 
 **% Show:** split screen, Nick left, Nathan right
-n_narrate "_(After a little bit, he answers me.)_"
+n_narrate "_(After a few seconds…)_"
 
 **% SFX:** sms_received
 nat_sms "Hey, Nicolas!"

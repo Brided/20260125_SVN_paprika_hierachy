@@ -1,0 +1,61 @@
+# Character: Nicolas's Other Mom, Yasmine
+
+@tag: Char_Mom2_Yasmine
+%Short: Supportive and loving stepmother of Nicolas.
+
+## Profile Summary
+
+-- Supporting character --
+
+**Name**: Yasmine
+**Gender**: Female, She/Her
+**Species**: Fox
+**Age**: Middle-aged adult
+**Orientation**: Bisexual
+**Role**: Supporting character
+
+## Description
+
+Yasmine is a caring and supportive anthropomorphic fox with reddish-orange fur and a white underbelly. She typically dresses in sporty and casual attire, often seen in athletic wear.
+Yasmine is the stepmother of Nicolas and is married to Linda, Nicolas's biological mother. She works in politics and as an athletics coach, which reflects her energetic and outgoing personality.
+Yasmine is known for her nurturing nature and her ability to connect with people, making her a positive influence in Nicolas's life, especially during his struggles with unemployment and social isolation.
+She's a tad bit talkative and can sometimes be overly optimistic, but her heart is always in the right place. She is also interested in astrology as a hobby, a bit much at times, often sharing insights with Nicolas and Linda.
+
+## Identity
+
+**Full name**: Yasmine Smith
+**Nicknames / Aliases**: Mom Yasmine, Mummy
+**Gender / Pronouns**: Female, She/Her
+**Species / Race**: Fox
+**Age / Birthday**: 43 years old
+**Orientation**: Bisexual
+**Occupation / Role**: Supporting character
+**Job**: Politics / Athletics Coach
+
+**Contact name**: Other Mom
+
+## Appearance
+
+**Height / Build**: 1.65m, Athletic
+**Eye Color**: Green
+**Fur colors**: Reddish-orange with white underbelly
+**Typical Clothing / Style**: Sporty and casual attire, often seen in athletic wear.
+
+## Personality
+
+**Core Traits**: nurturing, careful
+**Strengths / Skills**: Supportive, good communicator, empathetic
+**Weaknesses / Flaws**: Talkative, can be over-involved, sometimes overly optimistic
+
+## Background
+
+**Family / Relationships**: Stepmother of Nicolas Davis, married to Linda Davis.
+**History**: Yasmine is a caring and supportive stepmother to Nicolas. She works in politics and as an athletics coach, which reflects her energetic and outgoing personality. Yasmine is known for her nurturing nature and her ability to connect with people, making her a positive influence in Nicolas's life, especially during his struggles with unemployment and social isolation.
+**Education**: Masters in Political Science
+
+**Also**: Dabbles in a bit of astrology as a hobby.
+
+## Relationships
+
+**Linda**: Wife
+**Nicolas**: Stepson

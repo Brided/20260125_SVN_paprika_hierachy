@@ -71,7 +71,7 @@ g_sms "After all, I could use some company and I am not far from you"
 n_sms "I… don't know…"
 n_thought "Meet up later and talk more about it?"
 
-- Section: Gerald Comes To Apt Choice
+- Mini Section: Gerald Comes To Apt Choice
 
 **(MENU)** Player chooses if Gerald comes.
 
@@ -82,7 +82,7 @@ g_sms "Great! I'll see you tomorrow then, big bird"
 **(OPTION)** Unsure…
 n_sms "Uhh… Maybe???"
 g_sms "What do you mean maybe???"
-g_sms "Come on, it'll be fun! Just say yes!"
+g_sms "Come on, it'll be alright! Just say yes!"
 g_sms "I promise I won't bite }:8"
 (Go back to yes/no choice, remove maybe option.)
 
@@ -94,7 +94,7 @@ g_sms "Well, that's it for now"
 g_sms "Unless you have anything else to add?"
 
 **% SFX:** phone_typing
-Nicolas thinks for a moment.
+- Nicolas thinks for a moment.
 n_thought "Should I tell him how I feel?"
 Nicolas types: "I think I'm in love with you..." before backspacing.
 Nicolas types: "I have a cr..." before backspacing it all.
@@ -145,6 +145,7 @@ Per Nicolas's acceptance of Gerald's offer, Gerald arrives at Nicolas's apartmen
 - Character: Char_Gerald
 
 ## Script
+**% SFX:** door_knock
 g "Hey, Nicolas!"
 n_narrate "_(He hugs me, embraces me ever so tightly)_"
 n_narrate "_(His burly frame presses against mine, and I can feel his warmth.)_"

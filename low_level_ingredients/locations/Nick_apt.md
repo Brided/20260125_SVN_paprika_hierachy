@@ -8,4 +8,4 @@
 Apartment where Nicolas lives. He rents it alone in a modest building. It is a small but comfortable space, reflecting his simple lifestyle.
 
 **Connected to**:
-Location_NicoAptStreet: Street outside Nicolas's apartment.
+@location: Location_NicoAptStreet

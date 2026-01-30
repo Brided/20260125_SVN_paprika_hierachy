@@ -1,11 +1,11 @@
 # Nicolas's Street
 
-@tag: NicoAptStreet
+@tag: Location_NicoAptStreet
 %Short: Street where Nicolas's apartment is
 
 ## Location Summary
 
-Street where Nicolas's apartment is
+Street where Nicolas's apartment is located. A quiet residential area with a few small shops and cafes nearby.
 
 **Connected to**:
-Location_NicoApt: Nicolas's Apartment.
+@location: Location_NicoApt
