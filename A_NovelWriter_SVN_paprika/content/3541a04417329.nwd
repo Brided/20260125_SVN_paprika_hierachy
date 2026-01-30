@@ -1,0 +1,19 @@
+%%~name: Scene 1.3: Street
+%%~path: a7b093e9e0e86/3541a04417329
+%%~kind: NOVEL/DOCUMENT
+%%~hash: 76e9782ac3cbf3f81b09646c104306568cebfa6a
+%%~date: 2026-01-28 12:48:41/2026-01-30 10:27:05
+### Scene 1.3: Street
+
+@tag: Scene1.3 | Street
+@plot: PlotNote1.3
+
+%Synopsis: Nicolas is out on the street
+
+@char: Char_Nicolas, Char_Gerald
+@pov: Char_Nicolas
+@location: Location_NicoAptStreet
+
+n_thought "Ok, now, what do we do?"
+
+% TODO???

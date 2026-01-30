@@ -1,0 +1,180 @@
+%%~name: Chapter 1 notes
+%%~path: baa75d7a71e60/8c90babd70097
+%%~kind: PLOT/NOTE
+%%~hash: c9489849b90b306bc394edfd2624def982299bff
+%%~date: 2026-01-27 15:06:11/2026-01-30 12:20:25
+# Chapter 1 notes
+
+@tag: PlotNoteCh1Genesis
+
+
+
+## Scene 1.1: Rotting In Bed
+
+@tag: PlotNote1.1
+@story: Scene1.1
+
+%Synopsis: Nicolas is in bed then texts friends.
+
+**Entry State**: 
+- Nicolas lying in bed, isolated, indecisive, no plans
+
+**Trigger**: 
+- He has the crazy idea of just going out there, talk to people
+
+**Change / Decision**: 
+- Starts to think, text friends/contacts to gauge their reaction
+
+**Exit State**: 
+- Texted friends, mixed reactions
+- Gerald is coming to Nicolas's place tomorrow
+- Nicolas does a bit of light activity around his apartment
+- Nicolas's mom calls him
+
+**Tension Level**: 
+- None → Rising
+
+**Notes**: 
+- First introduction; sets emotional baseline for Nicolas.
+
+#### Texting Gerald
+
+@tag: PlotNote1.1Gerald
+@story: Scene1.1_TextGerald
+
+- Nicolas decides to text his friend Gerald to see how he's doing.
+- Nicolas tells Gerald about his crazy idea of just talking to people he finds interesting.
+- Gerald responds positively and suggests they meet up the next day.
+
+#### Texting Nathan
+
+@tag: PlotNote1.1Nathan
+@story: Scene1.1_TextNathan
+
+- Nicolas realizes he has forgot who "Nathan" is.
+- He texts Nathan to ask how he's been doing, ask if busy.
+- Nathan replies he is doing well, store is doing great.
+- Nathan responds politely, doesn't mind Nicolas reaching out
+- Suggest passing by his shop, happy to see Nicolas if he wants.
+
+#### Texting "Chef"
+
+@tag: PlotNote1.1Chef
+@story: Scene1.1_TextChef
+
+- Nicolas sees "Chef" contact.
+- Wonders who it is.
+- Decides to text them.
+- Nothing? might be wrong number (actually Anthony too busy to reply)
+- If selected, and not met tomorrow, Anthony texts back later.
+
+#### Mom
+
+@tag: PlotNote1.1Mom
+@story:
+- As Nicolas is doing light activity, his phone rings.
+- It's his mom calling to check in on him.
+- Nicolas answers the call and talk with his mom.
+- Mom asks about his well-being, his plans.
+
+- Mom expresses concern for Nicolas's isolation and his dismissal from his previous job, an unfortunate situation.
+- Mom encourages Nicolas to stay positive and keep trying to find his path.
+- Nicolas says he'll meet friends, including Gerald, to help with his loneliness.
+- Mom says she's proud of him for reaching out to friends.
+
+- Mom says Gerald is a good friend, hopes they can support each other.
+- Other Mom, Yasmine, overhears about Gerald. Talks about how he could be good for Nicolas, soulmates even.
+- Mom tells Yasmine to give Nicolas space, not pushy, astrology wise.
+- Nicolas thanks his mom for calling and for her support.
+- Nicolas also thanks Yasmine for her enthusiasm despite the awkwardness.
+- They end the call on a positive note, with Nicolas feeling a bit more supported.
+- They say they'll talk again soon and hang up.
+
+
+
+## Scene 1.2
+
+@tag: PlotNote1.2
+@story: Scene1.2
+
+%Synopsis: Gerald is here, conversation
+
+**Entry State**:
+- Nicolas out of bed, emotionally conflicted.
+- Some basic needs met; lingering indecision from Scene 1.1.
+- Crush on Gerald is still present, unspoken.
+
+**Trigger**:
+- Gerald arrives at Nicolas’s place, following up on prior “yes” from texting or agreement.
+
+**Change / Decision**:
+- Nicolas must navigate his long-standing crush.
+- Chooses whether to:
+	- Speak openly or remain silent.
+	- Accept proximity / gestures of comfort.
+	- Test boundaries emotionally while managing anxiety.
+- Interaction tone varies depending on Scene 1.1 texting outcomes:
+	- Encouragement → warmer, more relaxed bonding.
+	- Indifference / silence → awkward, tense, tentative bonding.
+- Gerald will be accompanying, in any outcomes
+
+**Exit State**:
+- Gerald is present; provides calm support.
+- Nicolas experiences both anxiety and tentative closeness.
+- Emotional stakes rise due to lingering crush, but no resolution.
+- Social contact confirmed, but outcomes remain ambiguous.
+
+**Tension Level**:
+- Rising → sustained
+- External: mild social exposure.
+- Internal: crush + self-restraint tension.
+
+**Notes**:
+- Scene focuses on **emotional navigation** and subtle bonding.
+- Deep conflict avoided; interaction is exploratory.
+- Scene reflects consequences of Scene 1.1 choices without locking the outcome.
+- Can set micro-flags for:
+	- Emotional warmth
+	- Distance / hesitation
+	- Crush tension
+
+#### Gerald Conversation
+
+@tag: PlotNote1.2Gerald
+@story: Scene1.2_TalkGerald
+
+**Entry State**:
+- Talking to Gerald
+
+**Change / Decision**: 
+- Getting to know what Gerald has been up to since
+
+**Exit State**: 
+- Nicolas is more confident
+
+% TODO???
+
+
+
+## Scene 1.3
+
+@tag: PlotNote1.3
+@story: Scene1.3
+
+%Synopsis: Nicolas and Gerald are out on the street
+
+**Entry State**:
+- Nicolas gets out of his apartment and is on the street
+- Gerald is present
+
+**Trigger**:
+
+**Change / Decision**:
+
+**Exit State**:
+
+**Tension Level**:
+
+**Notes**:
+
+% TODO???

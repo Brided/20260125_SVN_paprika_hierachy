@@ -1,0 +1,73 @@
+%%~name: Scene 1.2: Bull Barges In
+%%~path: a7b093e9e0e86/d97c1374a04b2
+%%~kind: NOVEL/DOCUMENT
+%%~hash: b1878646cb3f6a2acab0137fe9f110aa95e0f146
+%%~date: 2026-01-25 21:03:34/2026-01-30 12:42:55
+### Scene 1.2: Bull Barges In
+
+@tag: Scene1.2 | Bull Barges In
+@plot: PlotNote1.2
+
+**(CHOICE)** Player agreed for Gerald to come.
+
+%Synopsis: Gerald the bull is here.
+
+@char: Char_Gerald, Char_Nicolas
+@pov: Char_Nicolas
+@location: Location_NicoApt
+
+**% Scene:** Bedroom, morning
+**% Time:** 11:00, Sunday
+**% BG_SFX:** calm ambience
+
+**% SFX:** door_knock
+g "Hey, Nicolas!"
+n_narrate "_(He hugs me, embraces me ever so tightly)_"
+n_narrate "_(His burly frame presses against mine, and I can feel his warmth.)_"
+n_narrate "_(His warm breath tickles my ear as he speaks.)_"
+n_narrate "_(I can't help but notice how attractive he has become since we last met.)_"
+
+n_thought "OMG… When did he get so… hot?"
+
+g "Long time no see, huh?"
+n "Yeah, I've been avoiding you. Scared of what you think of me."
+
+n "Yeah…"
+n_thought "I'm such a coward…"
+
+- Nicolas tenses a bit, unsure of how to proceed.
+
+g "Nicolas, you don’t have to be scared of me. I’m your friend."
+g "I’m just happy you reached out."
+g "Tell me what’s on your mind."
+g "What's with this crazy idea of yours?"
+
+- Gerald sits down on the couch, patting the seat next to him.
+- Nicolas hesitates for a moment before sitting down beside him.
+
+n "Well… I’ve been feeling kinda lost lately."
+n "I don’t have a job… I was literally fired!"
+n "I don’t have any purpose…"
+
+n "So I thought… maybe I should just try talking to people I find interesting."
+n "See if I can make new friends…"
+
+g "That’s actually a pretty good idea."
+g "I know a few people who might be interested in meeting you."
+g "Nathan, for one. You mentioned him, right?"
+n "Yeah, Nathan seems nice."
+
+g "Let's head to his shop later, then."
+n "Sure, that sounds good."
+n "Erm… Yeah…"
+
+n_thought "I can’t believe I’m actually hanging out with Gerald…"
+n_thought "My hand would be inching to touch his… but I guess I'm too cautious for now…"
+
+n_thought "Maybe… just maybe… this could be the start of something new."
+
+g "Nick? You okay? You seem a bit… distracted."
+n "Oh, yeah… Sorry. Just… thinking."
+
+g "No worries. Take your time."
+n "Thanks, Gerald. I appreciate it."

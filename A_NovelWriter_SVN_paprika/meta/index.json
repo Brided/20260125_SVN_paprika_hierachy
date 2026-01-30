@@ -1,0 +1,407 @@
+{
+  "novelWriter.meta": {
+    "version": "0x020802f0",
+    "timestamp": "2026-01-30 12:51:33"
+  },
+  "novelWriter.tagsIndex": {
+    "plotoverview": {"name": "PlotOverview", "display": "PlotOverview", "handle": "c5f24836015be", "heading": "T0001", "class": "PLOT"},
+    "plotnotebrainstorm": {"name": "PlotNoteBrainstorm", "display": "PlotNoteBrainstorm", "handle": "c5f24836015be", "heading": "T0004", "class": "PLOT"},
+    "scene1.1": {"name": "Scene1.1", "display": "Rotting In Bed", "handle": "646c719114941", "heading": "T0001", "class": "NOVEL"},
+    "scene1.3": {"name": "Scene1.3", "display": "Street", "handle": "3541a04417329", "heading": "T0001", "class": "NOVEL"},
+    "scene1.2": {"name": "Scene1.2", "display": "Bull Barges In", "handle": "d97c1374a04b2", "heading": "T0001", "class": "NOVEL"},
+    "plotnote1.2": {"name": "PlotNote1.2", "display": "PlotNote1.2", "handle": "8c90babd70097", "heading": "T0007", "class": "PLOT"},
+    "plotnote1.1gerald": {"name": "PlotNote1.1Gerald", "display": "PlotNote1.1Gerald", "handle": "8c90babd70097", "heading": "T0003", "class": "PLOT"},
+    "plotnote1.3": {"name": "PlotNote1.3", "display": "PlotNote1.3", "handle": "8c90babd70097", "heading": "T0009", "class": "PLOT"},
+    "plotnote1.1nathan": {"name": "PlotNote1.1Nathan", "display": "PlotNote1.1Nathan", "handle": "8c90babd70097", "heading": "T0004", "class": "PLOT"},
+    "plotnote1.1": {"name": "PlotNote1.1", "display": "PlotNote1.1", "handle": "8c90babd70097", "heading": "T0002", "class": "PLOT"},
+    "scene 2.1": {"name": "Scene 2.1", "display": "Scene 2.1", "handle": "1265a10f3a967", "heading": "T0001", "class": "NOVEL"},
+    "plotnotech1genesis": {"name": "PlotNoteCh1Genesis", "display": "PlotNoteCh1Genesis", "handle": "8c90babd70097", "heading": "T0001", "class": "PLOT"},
+    "plotnotech2more": {"name": "PlotNoteCh2More", "display": "PlotNoteCh2More", "handle": "b66b417a56929", "heading": "T0001", "class": "PLOT"},
+    "plotnote1.2gerald": {"name": "PlotNote1.2Gerald", "display": "PlotNote1.2Gerald", "handle": "8c90babd70097", "heading": "T0008", "class": "PLOT"},
+    "char_nicolas": {"name": "Char_Nicolas", "display": "Char_Nicolas", "handle": "35dff61da356e", "heading": "T0001", "class": "CHARACTER"},
+    "char_gerald": {"name": "Char_Gerald", "display": "Char_Gerald", "handle": "3996ebfde413b", "heading": "T0001", "class": "CHARACTER"},
+    "char_nathan": {"name": "Char_Nathan", "display": "Char_Nathan", "handle": "614330ced7de3", "heading": "T0001", "class": "CHARACTER"},
+    "location_nicoapt": {"name": "Location_NicoApt", "display": "Location_NicoApt", "handle": "7f7570e23de55", "heading": "T0001", "class": "WORLD"},
+    "location_nicoaptstreet": {"name": "Location_NicoAptStreet", "display": "Location_NicoAptStreet", "handle": "7dab0fb7edb3b", "heading": "T0001", "class": "WORLD"},
+    "location_gaybar": {"name": "Location_GayBar", "display": "Location_GayBar", "handle": "7c03bd32ac64d", "heading": "T0001", "class": "WORLD"},
+    "location_nathanshop": {"name": "Location_NathanShop", "display": "Location_NathanShop", "handle": "9c52b0c0f390f", "heading": "T0001", "class": "WORLD"},
+    "scene1.1_textgerald": {"name": "Scene1.1_TextGerald", "display": "Scene1.1_TextGerald", "handle": "71e4e2ee80ea6", "heading": "T0001", "class": "NOVEL"},
+    "scene1.1_textnathan": {"name": "Scene1.1_TextNathan", "display": "Scene1.1_TextNathan", "handle": "353d0635bed6f", "heading": "T0001", "class": "NOVEL"},
+    "char_anthony": {"name": "Char_Anthony", "display": "Char_Anthony", "handle": "380ae815efe5f", "heading": "T0001", "class": "CHARACTER"},
+    "plotnote1.1chef": {"name": "PlotNote1.1Chef", "display": "PlotNote1.1Chef", "handle": "8c90babd70097", "heading": "T0005", "class": "PLOT"},
+    "scene1.1_textchef": {"name": "Scene1.1_TextChef", "display": "Scene1.1_TextChef", "handle": "fec575231fe57", "heading": "T0001", "class": "NOVEL"},
+    "plotnote1.1mom": {"name": "PlotNote1.1Mom", "display": "PlotNote1.1Mom", "handle": "8c90babd70097", "heading": "T0006", "class": "PLOT"},
+    "scene1.1_momcalls": {"name": "Scene1.1_MomCalls", "display": "Scene1.1_MomCalls", "handle": "828e389a65027", "heading": "T0001", "class": "NOVEL"},
+    "char_mom1_linda": {"name": "Char_Mom1_Linda", "display": "Char_Mom1_Linda", "handle": "bc695effca52f", "heading": "T0001", "class": "CHARACTER"},
+    "char_mom2_yasmine": {"name": "Char_Mom2_Yasmine", "display": "Char_Mom2_Yasmine", "handle": "51df087ebe4cc", "heading": "T0001", "class": "CHARACTER"}
+  },
+  "novelWriter.itemIndex": {
+    "45d1431715ae0": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Short Visual Novel: Paprika Nicolas", "line": 1, "tag": "", "counts": [44, 7, 1]},
+        "summary": "Starts with Nicolas's loneliness, lying in bed;"
+      }
+    },
+    "a7b093e9e0e86": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 1: Genesis", "line": 1, "tag": "", "counts": [18, 3, 0]},
+        "summary": "Our protagonist Elio starts to talk to people, Gerald"
+      }
+    },
+    "646c719114941": {
+      "T0001": {
+        "meta": {"level": "H3", "title": "Scene 1.1: Rotting In Bed", "line": 1, "tag": "scene1.1", "counts": [1319, 227, 11]},
+        "refs": {"plotnote1.1": "@plot", "char_nicolas": "@char,@pov", "location_nicoapt": "@location"},
+        "summary": "Nicolas is in bed then texts friends."
+      },
+      "T0002": {
+        "meta": {"level": "H4", "title": "Texting Choice", "line": 58, "tag": "", "counts": [426, 72, 5]},
+        "refs": {"char_nicolas": "@char,@pov"}
+      },
+      "T0003": {
+        "meta": {"level": "H4", "title": "Texting Finished", "line": 81, "tag": "", "counts": [475, 82, 6]},
+        "refs": {"char_nicolas": "@char,@pov"}
+      }
+    },
+    "bfef7bacd5832": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 2: More", "line": 1, "tag": "", "counts": [15, 3, 0]},
+        "summary": "_"
+      }
+    },
+    "1265a10f3a967": {
+      "T0001": {
+        "meta": {"level": "H3", "title": "Scene 2.1", "line": 1, "tag": "scene 2.1", "counts": [9, 2, 0]},
+        "summary": "_"
+      }
+    },
+    "c5f24836015be": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Plot Overview", "line": 1, "tag": "plotoverview", "counts": [13, 2, 0]},
+        "summary": "Some guy doesn\u2019t know what to do\u2026\n\nStarts with Nicolas's loneliness, lying in bed; Ends with"
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "Chapter 1: Genesis", "line": 10, "tag": "", "counts": [817, 127, 7]},
+        "refs": {"scene1.1": "@story", "scene1.2": "@story", "scene1.3": "@story"}
+      },
+      "T0003": {
+        "meta": {"level": "H2", "title": "Chapter 2: I am more than you", "line": 47, "tag": "", "counts": [181, 24, 8]}
+      },
+      "T0004": {
+        "meta": {"level": "H2", "title": "Plot Brainstorm", "line": 69, "tag": "plotnotebrainstorm", "counts": [189, 31, 2]},
+        "refs": {"plotoverview": "@plot"}
+      }
+    },
+    "35dff61da356e": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Character: Nicolas", "line": 1, "tag": "char_nicolas", "counts": [18, 2, 0]},
+        "summary": "Our indecisive protagonist."
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "Profile Summary", "line": 7, "tag": "", "counts": [170, 22, 2]}
+      },
+      "T0003": {
+        "meta": {"level": "H2", "title": "Description", "line": 18, "tag": "", "counts": [610, 89, 1]}
+      },
+      "T0004": {
+        "meta": {"level": "H2", "title": "Identity", "line": 22, "tag": "", "counts": [264, 35, 1]}
+      },
+      "T0005": {
+        "meta": {"level": "H2", "title": "Appearance", "line": 33, "tag": "", "counts": [190, 26, 1]}
+      },
+      "T0006": {
+        "meta": {"level": "H2", "title": "Personality", "line": 41, "tag": "", "counts": [280, 40, 1]}
+      },
+      "T0007": {
+        "meta": {"level": "H2", "title": "Background", "line": 47, "tag": "", "counts": [112, 21, 1]}
+      },
+      "T0008": {
+        "meta": {"level": "H2", "title": "Relationships", "line": 51, "tag": "", "counts": [92, 9, 1]}
+      },
+      "T0009": {
+        "meta": {"level": "H2", "title": "Reactions", "line": 56, "tag": "", "counts": [138, 17, 1]}
+      }
+    },
+    "7f7570e23de55": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Nicolas\u2019s Apartment", "line": 1, "tag": "location_nicoapt", "counts": [19, 2, 0]},
+        "summary": "Apartment of Nicolas."
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "Location Summary", "line": 7, "tag": "", "counts": [173, 27, 2]},
+        "refs": {"location_nicoaptstreet": "@location"}
+      }
+    },
+    "44e18c098ed79": {
+      "T0000": {
+        "meta": {"level": "H0", "title": "", "line": 0, "tag": "", "counts": [0, 0, 0]}
+      }
+    },
+    "3996ebfde413b": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Character: Gerald", "line": 1, "tag": "char_gerald", "counts": [17, 2, 0]},
+        "summary": "Bull guy friend"
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "Profile Summary", "line": 7, "tag": "", "counts": [219, 27, 2]}
+      },
+      "T0003": {
+        "meta": {"level": "H2", "title": "Description", "line": 18, "tag": "", "counts": [945, 149, 3]}
+      },
+      "T0004": {
+        "meta": {"level": "H2", "title": "Identity", "line": 26, "tag": "", "counts": [301, 41, 2]}
+      },
+      "T0005": {
+        "meta": {"level": "H2", "title": "Appearance", "line": 39, "tag": "", "counts": [215, 28, 1]}
+      },
+      "T0006": {
+        "meta": {"level": "H2", "title": "Personality", "line": 48, "tag": "", "counts": [538, 81, 1]}
+      },
+      "T0007": {
+        "meta": {"level": "H2", "title": "Background", "line": 55, "tag": "", "counts": [100, 12, 1]}
+      },
+      "T0008": {
+        "meta": {"level": "H2", "title": "Relationships", "line": 59, "tag": "", "counts": [75, 8, 1]}
+      }
+    },
+    "d97c1374a04b2": {
+      "T0001": {
+        "meta": {"level": "H3", "title": "Scene 1.2: Bull Barges In", "line": 1, "tag": "scene1.2", "counts": [1855, 342, 17]},
+        "refs": {"plotnote1.2": "@plot", "char_gerald": "@char", "char_nicolas": "@char,@pov", "location_nicoapt": "@location"},
+        "summary": "Gerald the bull is here."
+      }
+    },
+    "8c90babd70097": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Chapter 1 notes", "line": 1, "tag": "plotnotech1genesis", "counts": [15, 3, 0]}
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "Scene 1.1: Rotting In Bed", "line": 7, "tag": "plotnote1.1", "counts": [535, 90, 6]},
+        "refs": {"scene1.1": "@story"},
+        "summary": "Nicolas is in bed then texts friends."
+      },
+      "T0003": {
+        "meta": {"level": "H4", "title": "Texting Gerald", "line": 35, "tag": "plotnote1.1gerald", "counts": [239, 43, 1]},
+        "refs": {"scene1.1_textgerald": "@story"}
+      },
+      "T0004": {
+        "meta": {"level": "H4", "title": "Texting Nathan", "line": 44, "tag": "plotnote1.1nathan", "counts": [302, 57, 1]},
+        "refs": {"scene1.1_textnathan": "@story"}
+      },
+      "T0005": {
+        "meta": {"level": "H4", "title": "Texting \"Chef\"", "line": 55, "tag": "plotnote1.1chef", "counts": [218, 40, 1]},
+        "refs": {"scene1.1_textchef": "@story"}
+      },
+      "T0006": {
+        "meta": {"level": "H4", "title": "Mom", "line": 66, "tag": "plotnote1.1mom", "counts": [1024, 187, 3]}
+      },
+      "T0007": {
+        "meta": {"level": "H2", "title": "Scene 1.2", "line": 90, "tag": "plotnote1.2", "counts": [1364, 210, 6]},
+        "refs": {"scene1.2": "@story"},
+        "summary": "Gerald is here, conversation"
+      },
+      "T0008": {
+        "meta": {"level": "H4", "title": "Gerald Conversation", "line": 136, "tag": "plotnote1.2gerald", "counts": [168, 29, 3]},
+        "refs": {"scene1.2_talkgerald": "@story"}
+      },
+      "T0009": {
+        "meta": {"level": "H2", "title": "Scene 1.3", "line": 154, "tag": "plotnote1.3", "counts": [177, 29, 6]},
+        "refs": {"scene1.3": "@story"},
+        "summary": "Nicolas and Gerald are out on the street"
+      }
+    },
+    "d3d80228ff61b": {
+      "T0000": {
+        "meta": {"level": "H0", "title": "", "line": 0, "tag": "", "counts": [0, 0, 0]}
+      }
+    },
+    "7dab0fb7edb3b": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Nicolas's Street", "line": 1, "tag": "location_nicoaptstreet", "counts": [16, 2, 0]},
+        "summary": "Street where Nicolas's apartment is"
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "Location Summary", "line": 7, "tag": "", "counts": [143, 22, 2]},
+        "refs": {"location_nicoapt": "@location"}
+      }
+    },
+    "3541a04417329": {
+      "T0001": {
+        "meta": {"level": "H3", "title": "Scene 1.3: Street", "line": 1, "tag": "scene1.3", "counts": [52, 10, 1]},
+        "refs": {"plotnote1.3": "@plot", "char_nicolas": "@char,@pov", "char_gerald": "@char", "location_nicoaptstreet": "@location"},
+        "summary": "Nicolas is out on the street"
+      }
+    },
+    "9e9def1ff86e0": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Chapter ? notes", "line": 1, "tag": "", "counts": [15, 3, 0]}
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "Scene ?.?", "line": 3, "tag": "", "counts": [147, 22, 7]},
+        "refs": {"nicolas": "@char", "gerald": "@char", "gaybar": "@location"},
+        "summary": "Gay Bar Cruising"
+      }
+    },
+    "614330ced7de3": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Character: Nathan", "line": 1, "tag": "char_nathan", "counts": [17, 2, 0]},
+        "summary": "Nathan"
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "Profile Summary", "line": 7, "tag": "", "counts": [154, 19, 1]}
+      },
+      "T0003": {
+        "meta": {"level": "H2", "title": "Description", "line": 16, "tag": "", "counts": [367, 58, 1]}
+      },
+      "T0004": {
+        "meta": {"level": "H2", "title": "Identity", "line": 20, "tag": "", "counts": [272, 37, 2]}
+      },
+      "T0005": {
+        "meta": {"level": "H2", "title": "Appearance", "line": 33, "tag": "", "counts": [100, 14, 1]}
+      },
+      "T0006": {
+        "meta": {"level": "H2", "title": "Personality", "line": 39, "tag": "", "counts": [177, 22, 1]}
+      },
+      "T0007": {
+        "meta": {"level": "H2", "title": "Background", "line": 45, "tag": "", "counts": [97, 13, 1]}
+      },
+      "T0008": {
+        "meta": {"level": "H2", "title": "Relationships", "line": 49, "tag": "", "counts": [56, 5, 1]}
+      }
+    },
+    "7c03bd32ac64d": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Gay Bar", "line": 1, "tag": "location_gaybar", "counts": [7, 2, 0]},
+        "summary": "The gay bar"
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "Location Summary", "line": 7, "tag": "", "counts": [40, 6, 2]}
+      }
+    },
+    "b66b417a56929": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Chapter 2 notes", "line": 1, "tag": "plotnotech2more", "counts": [15, 3, 0]}
+      }
+    },
+    "99a32eff33f00": {
+      "T0000": {
+        "meta": {"level": "H0", "title": "", "line": 0, "tag": "", "counts": [0, 0, 0]}
+      }
+    },
+    "9c52b0c0f390f": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Location: Nathan's Shop", "line": 1, "tag": "location_nathanshop", "counts": [23, 3, 0]},
+        "summary": "Nathan's Shop"
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "Location Summary", "line": 7, "tag": "", "counts": [173, 29, 2]}
+      }
+    },
+    "71e4e2ee80ea6": {
+      "T0001": {
+        "meta": {"level": "H4", "title": "Texting Gerald", "line": 1, "tag": "scene1.1_textgerald", "counts": [3109, 531, 25]},
+        "refs": {"plotnote1.1gerald": "@plot", "char_gerald": "@char", "char_nicolas": "@char,@pov"},
+        "summary": "Gerald asks to come to Nicolas's apartment."
+      }
+    },
+    "353d0635bed6f": {
+      "T0001": {
+        "meta": {"level": "H4", "title": "Texting Nathan", "line": 1, "tag": "scene1.1_textnathan", "counts": [2575, 434, 22]},
+        "refs": {"plotnote1.1nathan": "@plot", "char_nathan": "@char", "char_nicolas": "@char,@pov"},
+        "summary": "Nathan is glad to have company."
+      }
+    },
+    "380ae815efe5f": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Character: Anthony", "line": 1, "tag": "char_anthony", "counts": [18, 2, 0]},
+        "summary": "Anthony"
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "Profile Summary", "line": 7, "tag": "", "counts": [146, 17, 1]}
+      },
+      "T0003": {
+        "meta": {"level": "H2", "title": "Description", "line": 16, "tag": "", "counts": [517, 80, 1]}
+      },
+      "T0004": {
+        "meta": {"level": "H2", "title": "Identity", "line": 20, "tag": "", "counts": [274, 37, 2]}
+      },
+      "T0005": {
+        "meta": {"level": "H2", "title": "Appearance", "line": 33, "tag": "", "counts": [295, 40, 1]}
+      },
+      "T0006": {
+        "meta": {"level": "H2", "title": "Personality", "line": 42, "tag": "", "counts": [352, 47, 1]}
+      },
+      "T0007": {
+        "meta": {"level": "H2", "title": "Background", "line": 48, "tag": "", "counts": [651, 115, 1]}
+      },
+      "T0008": {
+        "meta": {"level": "H2", "title": "Relationships", "line": 54, "tag": "", "counts": [97, 9, 1]}
+      }
+    },
+    "fec575231fe57": {
+      "T0001": {
+        "meta": {"level": "H4", "title": "Texting \"Chef\"", "line": 1, "tag": "scene1.1_textchef", "counts": [483, 76, 5]},
+        "refs": {"plotnote1.1chef": "@plot", "char_nicolas": "@char,@pov", "char_anthony": "@char"},
+        "summary": "Nicolas texts Anthony, who is busy."
+      }
+    },
+    "828e389a65027": {
+      "T0001": {
+        "meta": {"level": "H4", "title": "Mom Calls", "line": 1, "tag": "scene1.1_momcalls", "counts": [1955, 345, 15]},
+        "refs": {"plotnote1.1mom": "@plot", "char_nicolas": "@char,@pov", "char_mom1_linda": "@char", "char_mom2_yasmine": "@char"},
+        "summary": "Mom calls"
+      }
+    },
+    "bc695effca52f": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Mom 1 Linda", "line": 1, "tag": "char_mom1_linda", "counts": [11, 3, 0]},
+        "summary": "Caring and concerned mother of Nicolas."
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "Profile Summary", "line": 7, "tag": "", "counts": [182, 21, 2]}
+      },
+      "T0003": {
+        "meta": {"level": "H2", "title": "Identity", "line": 18, "tag": "", "counts": [322, 48, 2]}
+      },
+      "T0004": {
+        "meta": {"level": "H2", "title": "Appearance", "line": 31, "tag": "", "counts": [207, 28, 1]}
+      },
+      "T0005": {
+        "meta": {"level": "H2", "title": "Personality", "line": 39, "tag": "", "counts": [187, 22, 1]}
+      },
+      "T0006": {
+        "meta": {"level": "H2", "title": "Background", "line": 45, "tag": "", "counts": [477, 70, 1]}
+      },
+      "T0007": {
+        "meta": {"level": "H2", "title": "Relationships", "line": 51, "tag": "", "counts": [87, 10, 1]}
+      }
+    },
+    "51df087ebe4cc": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Character: Nicolas's Other Mom, Yasmine", "line": 1, "tag": "char_mom2_yasmine", "counts": [39, 5, 0]},
+        "summary": "Supportive and loving stepmother of Nicolas."
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "Profile Summary", "line": 7, "tag": "", "counts": [182, 21, 2]}
+      },
+      "T0003": {
+        "meta": {"level": "H2", "title": "Description", "line": 18, "tag": "", "counts": [816, 131, 1]}
+      },
+      "T0004": {
+        "meta": {"level": "H2", "title": "Identity", "line": 25, "tag": "", "counts": [302, 42, 2]}
+      },
+      "T0005": {
+        "meta": {"level": "H2", "title": "Appearance", "line": 38, "tag": "", "counts": [201, 28, 1]}
+      },
+      "T0006": {
+        "meta": {"level": "H2", "title": "Personality", "line": 45, "tag": "", "counts": [195, 22, 1]}
+      },
+      "T0007": {
+        "meta": {"level": "H2", "title": "Background", "line": 51, "tag": "", "counts": [563, 84, 2]}
+      },
+      "T0008": {
+        "meta": {"level": "H2", "title": "Relationships", "line": 59, "tag": "", "counts": [48, 5, 1]}
+      }
+    }
+  }
+}

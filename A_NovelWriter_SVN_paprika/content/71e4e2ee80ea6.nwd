@@ -1,0 +1,118 @@
+%%~name: Texting Gerald
+%%~path: 646c719114941/71e4e2ee80ea6
+%%~kind: NOVEL/DOCUMENT
+%%~hash: 90135045079c8ba0c15c415bb0de087a65ec4f5a
+%%~date: 2026-01-30 10:40:31/2026-01-30 10:44:26
+#### Texting Gerald
+
+@tag: Scene1.1_TextGerald
+@plot:PlotNote1.1Gerald
+
+%Short: Gerald asks to come to Nicolas's apartment.
+
+@char: Char_Gerald, Char_Nicolas
+@pov: Char_Nicolas
+
+
+**(SELECTION)** Player selects the contact "Big Bull Gerald".
+
+n_thought "Sigh… Gerald… My big bull guy… Erm… Friend?"
+n_thought "Has he forgotten me?"
+n_thought "I… think I still crush on him…"
+n_thought "Well… There’s only one way to find out…"
+
+**% SFX:** phone_typing
+n_sms "Hi, I am doing... nothing"
+
+- Nicolas pauses a bit before typing again.
+
+**% SFX:** phone_typing, phone_typing_backspacing
+Nicolas types: "What’s up" adding ", Big Bull?" before backspacing
+n_thought "No... That's too... uhh..."
+n_sms "What’s up?"
+n_narrate "_(Surprisingly, after a little bit, he answers me.)_"
+n_narrate "_(He must not be very busy.)_"
+
+**% SFX:** sms_received
+**% Show:** split screen, Nick left, Gerald right
+g_sms "Hey!"
+g_sms "Long time no see, my eagle pal }:8"
+g_sms "I’ve been doing great, and you?"
+
+**% SFX:** phone_typing
+n_sms "Uhh… I'm… okay, I guess"
+n_sms "I’ve been doing nothing all day, everyday"
+n_sms "I don’t know what to do with myself! Help me!"
+
+- Nicolas pauses a bit before typing again.
+
+**% SFX:** phone_typing
+n_thought "I have to tell him… Tell him about my idea"
+n_sms "What if I did this crazy idea of just talking to anybody that I see that I find interesting???"
+n_sms "But that’s just a crazy idea…"
+n_sms "There's no way anyone would be willing to talk to me…"
+n_sms "Much less become friends with me…"
+
+**% SFX:** sms_received
+g_sms "You’ve always been kind of crazy to me, no offense [Smiling and blushing emoji]😊"
+g_sms "I’d tell you to just be careful"
+g_sms "Tell you what, why don't we meet up tomorrow and talk more about it?"
+g_sms "After all, I could use some company and I am not far from you"
+
+**% SFX:** phone_typing
+n_sms "I… don't know…"
+n_thought "Meet up later and talk more about it?"
+
+- Mini Section: Gerald Comes To Apt Choice
+
+**(MENU)** Player chooses if Gerald comes.
+
+**(OPTION)** Agree to meet up.
+n_sms "Sure! That sounds good"
+g_sms "Great! I'll see you tomorrow then, big bird"
+
+**(OPTION)** Unsure…
+n_sms "Uhh… Maybe???"
+g_sms "What do you mean maybe???"
+g_sms "Come on, it'll be alright! Just say yes!"
+g_sms "I promise I won't bite }:8"
+(Go back to yes/no choice, remove maybe option.)
+
+**(AFTER CHOICE)**
+**% SFX:** sms_received
+g_sms "Anything is better than you just rotting in bed all day, right?"
+g_sms "Well, that's it for now"
+g_sms "Unless you have anything else to add?"
+
+**% SFX:** phone_typing
+- Nicolas thinks for a moment.
+n_thought "Should I tell him how I feel?"
+Nicolas types: "I think I'm in love with you..." before backspacing.
+Nicolas types: "I have a cr..." before backspacing it all.
+n_thought "No no no no no… Can't say that… Not yet…"
+
+**(NATHAN NOT TEXTED BEFORE)**
+n_sms "All good on my end… See you tomorrow."
+
+**(NATHAN TEXTED BEFORE)**
+n_sms "Actually, Nathan said hi, btw."
+n_sms "We could visit his shop…"
+
+**% SFX:** sms_received
+g_sms "Oh, nice!"
+g_sms "He's a great guy."
+g_sms "Sounds like a plan!"
+
+**(NATHAN FORK END)**
+
+**% SFX:** sms_received
+g_sms "Last thing..."
+g_sms "Instead of just rotting in bed, just walk around, okay? See you tomorrow"
+g_sms "Cya then, big bird!"
+
+n_thought "He's right…"
+n_thought "I guess…"
+
+n_thought "Gerald will be here tomorrow."
+
+(go to choose friends choice.)

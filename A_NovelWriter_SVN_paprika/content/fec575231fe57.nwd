@@ -1,0 +1,32 @@
+%%~name: Texting "Chef"
+%%~path: 646c719114941/fec575231fe57
+%%~kind: NOVEL/DOCUMENT
+%%~hash: 15ad2de784dab8400a220453a36405ba3e04a3a8
+%%~date: 2026-01-30 10:50:54/2026-01-30 11:09:54
+#### Texting "Chef"
+
+@tag: Scene1.1_TextChef
+@plot: PlotNote1.1Chef
+
+%Short: Nicolas texts Anthony, who is busy.
+
+@char: Char_Nicolas, Char_Anthony
+@pov:Char_Nicolas
+
+**(SELECTION)** Player selects the contact "Chef".
+
+n_thought " 'Chef'… Who is that again?"
+n_thought "I can't quite remember…"
+n_thought "Oh, well… I'll just text them and see."
+
+**% SFX:** phone_typing
+n_sms "Hey, Chef. It's Nicolas."
+n_sms "Just wanted to see how you're doing."
+
+n_thought "…"
+n_narrate "_(After a while, no response came.)_"
+n_thought "Hmm… Maybe I got the wrong number?"
+n_thought "Or maybe they're just busy…"
+n_thought "Oh well…"
+
+(go to choose friends choice.)
