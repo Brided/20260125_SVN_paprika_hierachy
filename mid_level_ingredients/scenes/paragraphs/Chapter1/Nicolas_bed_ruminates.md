@@ -5,6 +5,7 @@
 # Nicolas in Bed, Ruminates
 
 @tag: Paragraph_Nicolas_In_Bed_Ruminates
+
 %Short: Nicolas lies in bed, ruminating about his life.
 
 In: Scene 1.1 (Before Texting Friends Section)
@@ -94,6 +95,7 @@ n_thought "Well… I guess that's all for now."
 # Nicolas, after texting
 
 @tag: Paragraph_Nicolas_After_Texting
+
 %Short: Nicolas has finished texting
 
 In: Scene 1.1 (After Texting Friends Section)
@@ -119,4 +121,3 @@ n_thought "And I don't… What am I?"
 n_narrate "_(I stand up and walk around a bit.)_"
 
 - Nicolas's mom phones him as he does light activities around his apartment.
-<!-- Or dad?? Idk -->

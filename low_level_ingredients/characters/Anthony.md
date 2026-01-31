@@ -1,6 +1,7 @@
 ## Character: Anthony
 
 @tag: Char_Anthony
+
 %Short: Anthony
 
 ## Profile Summary

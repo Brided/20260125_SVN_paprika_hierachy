@@ -1,6 +1,7 @@
 # Character: Gerald
 
 @tag: Char_Gerald
+
 %Short: Bull guy friend
 
 ## Profile Summary
@@ -54,6 +55,7 @@ Doesn't hold grudges towards Nicolas for not interacting or remaining distant. H
 ## Background
 
 **Family / Relationships**: Friends with Nicolas, unknowingly reciprocal of love interest.
+**History / Past**: Gerald and Nicolas went to the same University where Gerald would often see Nicolas around, helping him out for various things: study, social events, and projects. They did not interact much after a bit of time. 
 
 ## Relationships
 

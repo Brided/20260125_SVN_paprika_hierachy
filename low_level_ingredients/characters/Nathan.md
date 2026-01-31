@@ -1,6 +1,7 @@
 # Character: Nathan
 
 @tag: Char_Nathan
+
 %Short: Nathan
 
 ## Profile Summary

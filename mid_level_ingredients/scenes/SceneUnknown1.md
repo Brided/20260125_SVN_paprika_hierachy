@@ -1,19 +1,14 @@
-%%~name: Chapter ? notes
-%%~path: baa75d7a71e60/9e9def1ff86e0
-%%~kind: PLOT/NOTE
-%%~hash: 1231f474b097940f343dde2583488225cb8e007e
-%%~date: 2026-01-28 14:12:37/2026-01-31 12:23:15
-# Chapter ? notes
+# Scene ?.?: Gay Bar Club Visit
 
-## Scene ?.?
+% Synopsis: Nicolas and Gerald visit a gay bar club together.
 
-%Synopsis: Gay Bar Cruising
+**Setting:** Gay Bar Club in the Red Light District
 
-@tag: 
-@story: 
 @char: Char_Nicolas, Char_Gerald
+@time: Time_Year_2026
 @location: Location_GayBarClub
 
+## Notes
 **Entry State**:
 - Nicolas wanted to experience a new kind of social setting: more spicy, lively.
 - Gerald is excited to show Nicolas a fun time.
@@ -36,17 +31,19 @@
 - This scene serves to develop Nicolas's character as he begins to explore new social settings and experiences.
 - It also strengthens the bond between Nicolas and Gerald as they share this experience together.
 
-#### Before Entering
+## Beats
+%time: Evening, ???
+**Before Entering**: - Paragraph_GayBarClub_Entrance
 - Nicolas and Gerald are walking down the red light district, looking at the various establishments.
 - They settle for this Gay Bar Club that they both find interesting.
 
-#### Inside the Club
+**Inside the Club**: - Paragraph_GayBarClub_Inside
 - At the ground level: bar area, seating, music, people dancing.
 - Nicolas is a bit overwhelmed but excited.
 - They get drinks and find a spot to sit and observe the scene.
 - Nicolas starts to relax and enjoy the atmosphere.
 
-#### During
+**During**: - Paragraph_GayBarClub_Interactions
 - Gerald encourages Nicolas to mingle and meet new people.
 - Nicolas looks at other people in the club, finds some interesting and attractive characters.
 - In the end, Nicolas feels none of them match up to Gerald, who is clearly his main interest.

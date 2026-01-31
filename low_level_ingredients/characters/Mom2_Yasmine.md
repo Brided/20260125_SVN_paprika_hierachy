@@ -1,6 +1,7 @@
 # Character: Nicolas's Other Mom, Yasmine
 
 @tag: Char_Mom2_Yasmine
+
 %Short: Supportive and loving stepmother of Nicolas.
 
 ## Profile Summary

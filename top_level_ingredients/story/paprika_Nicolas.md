@@ -4,6 +4,9 @@
 
 %Synopsis: Starts with Nicolas's loneliness, lying in bed; Ends with him confessing to Gerald, his true love.
 
+"I realized… After all these years… That it was you that I loved all along…"
+- Nicolas
+
 In N chapters (TBD)
 
 ## Description
@@ -35,8 +38,9 @@ Through a series of interactions with his acquaintances, including Nathan and Ge
 - Gerald stays over night (definitive)
 
 
-- Chapter ?: Gerald…
+- Chapter ? 1: Gerald…
 %Short: Nicolas realizes his growing feelings for Gerald during the previous chapters… Not yet confessed.
+  - Scene ?.?: Gay Bar Club Visit
 
 
 - Chapter N-1: Confession And Beyond
@@ -45,3 +49,5 @@ Through a series of interactions with his acquaintances, including Nathan and Ge
 
 - Chapter N: Epilogue - A New Chapter
 %Short: Nicolas and Gerald embark on a new chapter together, exploring their relationship and future.
+
+## Intermissions

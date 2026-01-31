@@ -1,6 +1,7 @@
 # Location: Nicolas's Apartment
 
 @tag: Location_NicoApt
+
 %Short: Apartment of Nicolas.
 
 ## Location Summary

@@ -5,6 +5,7 @@
 # Gerald asks to come to Nicolas's apartment.
 
 @tag: Paragraph_Gerald_Asks_To_Come_To_Apt
+
 %Short: Gerald asks to come to Nicolas's apartment.
 
 In: Scene 1.1 (Texting Friends Section)
@@ -131,6 +132,7 @@ n_thought "Gerald will be here tomorrow."
 # Gerald Comes To Apt
 
 @tag: Paragraph_Gerald_Comes_To_Apt
+
 %Short: Gerald comes to Nicolas's apartment.
 
 In: Scene 1.2
@@ -191,8 +193,10 @@ n_thought "My hand would be inching to touch his… but I guess I'm too cautious
 
 n_thought "Maybe… just maybe… this could be the start of something new."
 
-g "Nick? You okay? You seem a bit… distracted."
+g "Nick? You okay? You seem a bit… distracted?"
 n "Oh, yeah… Sorry. Just… thinking."
 
 g "No worries. Take your time."
 n "Thanks, Gerald. I appreciate it."
+
+- They both smile at each other

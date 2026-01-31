@@ -1,6 +1,7 @@
 # Character: Nicolas's Mom, Linda
 
 @tag: Char_Mom1_Linda
+
 %Short: Caring and concerned mother of Nicolas.
 
 ## Profile Summary

@@ -1,6 +1,7 @@
 # Paragraph: Nicolas Think, Gerald Sleeping
 
 @tag: Paragraph_Night_Nicolas_And_Gerald_Sleep
+
 %Short: Nicolas thinks about Gerald as they sleep.
 
 ## Description

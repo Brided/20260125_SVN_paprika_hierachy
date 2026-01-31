@@ -1,6 +1,7 @@
 # Paragraph: Mom Calls Nicolas
 
 @tag: Paragraph_Mom_Calls_Nicolas
+
 %Short: Nicolas's mom calls him to check in.
 
 In: Scene 1.1 (After Texting Friends Section)

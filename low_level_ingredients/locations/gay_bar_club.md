@@ -1,9 +1,4 @@
-%%~name: Gay Bar Club
-%%~path: 22a163233e35e/7c03bd32ac64d
-%%~kind: WORLD/NOTE
-%%~hash: 8518001a71084bee6c7098716239945f09749738
-%%~date: 2026-01-28 15:37:02/2026-01-31 12:01:21
-# Gay Bar Club
+# Location: Gay Bar Club
 
 @tag: Location_GayBarClub
 

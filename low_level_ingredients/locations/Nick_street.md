@@ -1,6 +1,7 @@
 # Nicolas's Street
 
 @tag: Location_NicoAptStreet
+
 %Short: Street where Nicolas's apartment is
 
 ## Location Summary

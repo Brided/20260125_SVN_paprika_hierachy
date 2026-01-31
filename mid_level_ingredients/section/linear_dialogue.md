@@ -1,6 +1,7 @@
 # Section: Linear Dialogue
 
 @tag: Section_Linear
+
 %Short: Straightforward back-and-forth dialogue between characters
 
 ## Included Ingredients

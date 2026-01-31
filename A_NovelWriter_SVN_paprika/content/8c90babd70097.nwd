@@ -1,8 +1,8 @@
 %%~name: Chapter 1 notes
 %%~path: baa75d7a71e60/8c90babd70097
 %%~kind: PLOT/NOTE
-%%~hash: c9489849b90b306bc394edfd2624def982299bff
-%%~date: 2026-01-27 15:06:11/2026-01-30 12:20:25
+%%~hash: 4068467fb878f8ff8bc5f23fe9d7f5508315035e
+%%~date: 2026-01-27 15:06:11/2026-01-31 12:05:25
 # Chapter 1 notes
 
 @tag: PlotNoteCh1Genesis
@@ -71,7 +71,7 @@
 #### Mom
 
 @tag: PlotNote1.1Mom
-@story:
+@story: Scene1.1_MomCalls
 - As Nicolas is doing light activity, his phone rings.
 - It's his mom calling to check in on him.
 - Nicolas answers the call and talk with his mom.

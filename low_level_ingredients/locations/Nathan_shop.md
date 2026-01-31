@@ -1,6 +1,7 @@
 # Location: Nathan's Shop
 
 @tag: Location_NathanShop
+
 %Short: Nathan's Shop
 
 ## Location Summary

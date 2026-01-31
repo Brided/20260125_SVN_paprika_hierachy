@@ -1,6 +1,7 @@
 # Paragraph: Nathan Glad To Have Company
 
 @tag: Paragraph_Nathan_Talk
+
 %Short: Nathan is glad to have company.
 
 In: Scene 1.1 (Texting Friends Section)

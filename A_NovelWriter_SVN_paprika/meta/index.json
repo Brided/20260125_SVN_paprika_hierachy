@@ -1,7 +1,7 @@
 {
   "novelWriter.meta": {
     "version": "0x020802f0",
-    "timestamp": "2026-01-30 17:12:18"
+    "timestamp": "2026-01-31 12:24:06"
   },
   "novelWriter.tagsIndex": {
     "plotoverview": {"name": "PlotOverview", "display": "PlotOverview", "handle": "c5f24836015be", "heading": "T0001", "class": "PLOT"},
@@ -23,7 +23,6 @@
     "char_nathan": {"name": "Char_Nathan", "display": "Char_Nathan", "handle": "614330ced7de3", "heading": "T0001", "class": "CHARACTER"},
     "location_nicoapt": {"name": "Location_NicoApt", "display": "Location_NicoApt", "handle": "7f7570e23de55", "heading": "T0001", "class": "WORLD"},
     "location_nicoaptstreet": {"name": "Location_NicoAptStreet", "display": "Location_NicoAptStreet", "handle": "7dab0fb7edb3b", "heading": "T0001", "class": "WORLD"},
-    "location_gaybar": {"name": "Location_GayBar", "display": "Location_GayBar", "handle": "7c03bd32ac64d", "heading": "T0001", "class": "WORLD"},
     "location_nathanshop": {"name": "Location_NathanShop", "display": "Location_NathanShop", "handle": "9c52b0c0f390f", "heading": "T0001", "class": "WORLD"},
     "scene1.1_textgerald": {"name": "Scene1.1_TextGerald", "display": "Scene1.1_TextGerald", "handle": "71e4e2ee80ea6", "heading": "T0001", "class": "NOVEL"},
     "scene1.1_textnathan": {"name": "Scene1.1_TextNathan", "display": "Scene1.1_TextNathan", "handle": "353d0635bed6f", "heading": "T0001", "class": "NOVEL"},
@@ -33,7 +32,9 @@
     "plotnote1.1mom": {"name": "PlotNote1.1Mom", "display": "PlotNote1.1Mom", "handle": "8c90babd70097", "heading": "T0006", "class": "PLOT"},
     "scene1.1_momcalls": {"name": "Scene1.1_MomCalls", "display": "Scene1.1_MomCalls", "handle": "828e389a65027", "heading": "T0001", "class": "NOVEL"},
     "char_mom1_linda": {"name": "Char_Mom1_Linda", "display": "Char_Mom1_Linda", "handle": "bc695effca52f", "heading": "T0001", "class": "CHARACTER"},
-    "char_mom2_yasmine": {"name": "Char_Mom2_Yasmine", "display": "Char_Mom2_Yasmine", "handle": "51df087ebe4cc", "heading": "T0001", "class": "CHARACTER"}
+    "char_mom2_yasmine": {"name": "Char_Mom2_Yasmine", "display": "Char_Mom2_Yasmine", "handle": "51df087ebe4cc", "heading": "T0001", "class": "CHARACTER"},
+    "location_gaybarclub": {"name": "Location_GayBarClub", "display": "Location_GayBarClub", "handle": "7c03bd32ac64d", "heading": "T0001", "class": "WORLD"},
+    "location_redlightdistrict": {"name": "Location_RedLightDistrict", "display": "Location_RedLightDistrict", "handle": "1d1a7f1928341", "heading": "T0001", "class": "WORLD"}
   },
   "novelWriter.itemIndex": {
     "45d1431715ae0": {
@@ -113,13 +114,13 @@
         "meta": {"level": "H2", "title": "Personality", "line": 41, "tag": "", "counts": [280, 40, 1]}
       },
       "T0007": {
-        "meta": {"level": "H2", "title": "Background", "line": 47, "tag": "", "counts": [112, 21, 1]}
+        "meta": {"level": "H2", "title": "Background", "line": 47, "tag": "", "counts": [672, 115, 1]}
       },
       "T0008": {
-        "meta": {"level": "H2", "title": "Relationships", "line": 51, "tag": "", "counts": [92, 9, 1]}
+        "meta": {"level": "H2", "title": "Relationships", "line": 55, "tag": "", "counts": [92, 9, 1]}
       },
       "T0009": {
-        "meta": {"level": "H2", "title": "Reactions", "line": 56, "tag": "", "counts": [138, 17, 1]}
+        "meta": {"level": "H2", "title": "Reactions", "line": 60, "tag": "", "counts": [138, 17, 1]}
       }
     },
     "7f7570e23de55": {
@@ -152,16 +153,16 @@
         "meta": {"level": "H2", "title": "Identity", "line": 26, "tag": "", "counts": [301, 41, 2]}
       },
       "T0005": {
-        "meta": {"level": "H2", "title": "Appearance", "line": 39, "tag": "", "counts": [215, 28, 1]}
+        "meta": {"level": "H2", "title": "Appearance", "line": 39, "tag": "", "counts": [231, 29, 1]}
       },
       "T0006": {
         "meta": {"level": "H2", "title": "Personality", "line": 48, "tag": "", "counts": [538, 81, 1]}
       },
       "T0007": {
-        "meta": {"level": "H2", "title": "Background", "line": 55, "tag": "", "counts": [100, 12, 1]}
+        "meta": {"level": "H2", "title": "Background", "line": 55, "tag": "", "counts": [331, 51, 1]}
       },
       "T0008": {
-        "meta": {"level": "H2", "title": "Relationships", "line": 59, "tag": "", "counts": [75, 8, 1]}
+        "meta": {"level": "H2", "title": "Relationships", "line": 60, "tag": "", "counts": [75, 8, 1]}
       }
     },
     "d97c1374a04b2": {
@@ -193,7 +194,8 @@
         "refs": {"scene1.1_textchef": "@story"}
       },
       "T0006": {
-        "meta": {"level": "H4", "title": "Mom", "line": 66, "tag": "plotnote1.1mom", "counts": [1024, 187, 3]}
+        "meta": {"level": "H4", "title": "Mom", "line": 66, "tag": "plotnote1.1mom", "counts": [1024, 187, 3]},
+        "refs": {"scene1.1_momcalls": "@story"}
       },
       "T0007": {
         "meta": {"level": "H2", "title": "Scene 1.2", "line": 90, "tag": "plotnote1.2", "counts": [1364, 210, 6]},
@@ -237,9 +239,18 @@
         "meta": {"level": "H1", "title": "Chapter ? notes", "line": 1, "tag": "", "counts": [15, 3, 0]}
       },
       "T0002": {
-        "meta": {"level": "H2", "title": "Scene ?.?", "line": 3, "tag": "", "counts": [147, 22, 7]},
-        "refs": {"nicolas": "@char", "gerald": "@char", "gaybar": "@location"},
+        "meta": {"level": "H2", "title": "Scene ?.?", "line": 3, "tag": "", "counts": [817, 143, 6]},
+        "refs": {"char_nicolas": "@char", "char_gerald": "@char", "location_gaybarclub": "@location"},
         "summary": "Gay Bar Cruising"
+      },
+      "T0003": {
+        "meta": {"level": "H4", "title": "Before Entering", "line": 34, "tag": "", "counts": [183, 31, 1]}
+      },
+      "T0004": {
+        "meta": {"level": "H4", "title": "Inside the Club", "line": 38, "tag": "", "counts": [236, 45, 1]}
+      },
+      "T0005": {
+        "meta": {"level": "H4", "title": "During", "line": 44, "tag": "", "counts": [252, 45, 1]}
       }
     },
     "614330ced7de3": {
@@ -271,11 +282,12 @@
     },
     "7c03bd32ac64d": {
       "T0001": {
-        "meta": {"level": "H1", "title": "Gay Bar", "line": 1, "tag": "location_gaybar", "counts": [7, 2, 0]},
-        "summary": "The gay bar"
+        "meta": {"level": "H1", "title": "Gay Bar Club", "line": 1, "tag": "location_gaybarclub", "counts": [12, 3, 0]},
+        "summary": "The gay bar club"
       },
       "T0002": {
-        "meta": {"level": "H2", "title": "Location Summary", "line": 7, "tag": "", "counts": [40, 6, 2]}
+        "meta": {"level": "H2", "title": "Location Summary", "line": 7, "tag": "", "counts": [435, 73, 4]},
+        "refs": {"location_redlightdistrict": "@location"}
       }
     },
     "b66b417a56929": {
@@ -401,6 +413,16 @@
       },
       "T0008": {
         "meta": {"level": "H2", "title": "Relationships", "line": 59, "tag": "", "counts": [48, 5, 1]}
+      }
+    },
+    "1d1a7f1928341": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Red Light District", "line": 1, "tag": "location_redlightdistrict", "counts": [18, 3, 0]},
+        "summary": "The Red Light District"
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "Location Summary", "line": 7, "tag": "", "counts": [289, 44, 2]},
+        "refs": {"location_gaybarclub": "@location"}
       }
     }
   }

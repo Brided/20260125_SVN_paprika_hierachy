@@ -1,6 +1,7 @@
 # Character: Nicolas
 
 @tag: Char_Nicolas
+
 %Short: Our indecisive protagonist.
 
 ## Profile Summary
@@ -46,7 +47,11 @@ Nicolas is a young anthropomorphic crowned eagle with green and golden feathers 
 ## Background
 
 **Family / Relationships**: Got a crush on Gerald in the past, reason why he is a friend with him now.
-**History**: After years of education just to land at an office job he hated, he got fired due to downsizing. Has been unemployed since then, struggling to find purpose and direction in life.
+**History**: Gerald and Nicolas went to the same University where Gerald would often see Nicolas around, helping him out for various things: study, social events, and projects. They did not interact much after a bit of time.
+
+This is partly because Nicolas had a crush on Gerald but never acted on it, leading to some distance between them.
+
+After years of philosophy education just to land at an office job he hated, he got fired due to downsizing. Has been unemployed since then, struggling to find purpose and direction in life.
 **Education**: Philosophy degree.
 
 ## Relationships

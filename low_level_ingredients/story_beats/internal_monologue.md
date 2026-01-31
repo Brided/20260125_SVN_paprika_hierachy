@@ -1,6 +1,7 @@
 # Story Beat: Internal Monologue
 
 @tag: StoryBeat_Internal_Monologue
+
 %Short: Extended internal reflection or self-dialogue of the PoV character
 
 ## Description
