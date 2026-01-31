@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.8.2" hexVersion="0x020802f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-01-31 20:59:09">
-  <project id="ba72b21e-b4bc-48b6-9dd5-1b777d4eb4b2" saveCount="22" autoCount="675" editTime="110699">
+<novelWriterXML appVersion="2.8.2" hexVersion="0x020802f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-01-31 22:04:09">
+  <project id="ba72b21e-b4bc-48b6-9dd5-1b777d4eb4b2" saveCount="22" autoCount="703" editTime="114599">
     <name>20260125_SVN_paprika</name>
     <author>Brided</author>
   </project>
@@ -10,25 +10,25 @@
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
       <entry key="editor">857ed0089d5bd</entry>
-      <entry key="viewer">e238474f538cd</entry>
+      <entry key="viewer">None</entry>
       <entry key="novel">343b3b7c1640c</entry>
       <entry key="outline">343b3b7c1640c</entry>
     </lastHandle>
     <autoReplace />
     <status>
-      <entry key="sb517b6" count="11" color="#646464" shape="SQUARE">New</entry>
+      <entry key="sb517b6" count="9" color="#646464" shape="SQUARE">New</entry>
       <entry key="s7812b6" count="0" color="#c83200" shape="TRIANGLE">Note</entry>
-      <entry key="s2cda52" count="9" color="#c89600" shape="CIRCLE">Draft</entry>
+      <entry key="s2cda52" count="11" color="#c89600" shape="CIRCLE">Draft</entry>
       <entry key="s425fd0" count="0" color="#32c800" shape="STAR">Finished</entry>
     </status>
     <importance>
       <entry key="ie71627" count="12" color="#646464" shape="SQUARE">New</entry>
-      <entry key="i279946" count="3" color="#c83200" shape="BARS_1">Minor</entry>
-      <entry key="i58104d" count="9" color="#c89600" shape="BARS_2">Major</entry>
+      <entry key="i279946" count="2" color="#c83200" shape="BARS_1">Minor</entry>
+      <entry key="i58104d" count="10" color="#c89600" shape="BARS_2">Major</entry>
       <entry key="ieeee7c" count="6" color="#32c800" shape="BARS_3">Main</entry>
     </importance>
   </settings>
-  <content items="50" novelWords="2320" notesWords="3641" novelChars="13515" notesChars="23738">
+  <content items="50" novelWords="2825" notesWords="3648" novelChars="16291" notesChars="23787">
     <item handle="343b3b7c1640c" parent="None" root="343b3b7c1640c" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="sb517b6" import="ie71627">Paprika Nicolas</name>
@@ -38,43 +38,43 @@
       <name status="sb517b6" import="ie71627" active="yes">SVN: Paprika Nicolas</name>
     </item>
     <item handle="857ed0089d5bd" parent="343b3b7c1640c" root="343b3b7c1640c" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H3" charCount="19" wordCount="2" paraCount="0" cursorPos="25" />
-      <name status="sb517b6" import="ie71627" active="yes">Flashback: Prologue</name>
+      <meta expanded="no" heading="H3" charCount="1463" wordCount="257" paraCount="14" cursorPos="63" />
+      <name status="s2cda52" import="ie71627" active="yes">Flashback: Prologue</name>
     </item>
     <item handle="a7b093e9e0e86" parent="343b3b7c1640c" root="343b3b7c1640c" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="yes" heading="H2" charCount="18" wordCount="3" paraCount="0" cursorPos="87" />
       <name status="s2cda52" import="ie71627" active="yes">Chapter 1: Genesis</name>
     </item>
     <item handle="646c719114941" parent="a7b093e9e0e86" root="343b3b7c1640c" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="yes" heading="H3" charCount="1745" wordCount="299" paraCount="16" cursorPos="1541" />
+      <meta expanded="yes" heading="H3" charCount="1799" wordCount="309" paraCount="17" cursorPos="468" />
       <name status="s2cda52" import="ie71627" active="yes">Scene 1.1: Rotting In Bed</name>
     </item>
-    <item handle="4c86bd90659d6" parent="646c719114941" root="343b3b7c1640c" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H4" charCount="475" wordCount="82" paraCount="6" cursorPos="536" />
-      <name status="s2cda52" import="ie71627" active="yes">Texting Finished</name>
-    </item>
-    <item handle="71e4e2ee80ea6" parent="646c719114941" root="343b3b7c1640c" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="71e4e2ee80ea6" parent="646c719114941" root="343b3b7c1640c" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="yes" heading="H4" charCount="3109" wordCount="531" paraCount="25" cursorPos="177" />
       <name status="s2cda52" import="ie71627" active="yes">Texting Gerald</name>
     </item>
-    <item handle="353d0635bed6f" parent="646c719114941" root="343b3b7c1640c" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="353d0635bed6f" parent="646c719114941" root="343b3b7c1640c" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H4" charCount="2575" wordCount="434" paraCount="22" cursorPos="46" />
       <name status="s2cda52" import="ie71627" active="yes">Texting Nathan</name>
     </item>
-    <item handle="fec575231fe57" parent="646c719114941" root="343b3b7c1640c" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="fec575231fe57" parent="646c719114941" root="343b3b7c1640c" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="yes" heading="H4" charCount="483" wordCount="76" paraCount="5" cursorPos="165" />
       <name status="s2cda52" import="ie71627" active="yes">Texting "Chef"</name>
     </item>
-    <item handle="828e389a65027" parent="646c719114941" root="343b3b7c1640c" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
+    <item handle="828e389a65027" parent="646c719114941" root="343b3b7c1640c" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="no" heading="H4" charCount="1955" wordCount="345" paraCount="15" cursorPos="0" />
       <name status="s2cda52" import="ie71627" active="yes">Mom Calls</name>
+    </item>
+    <item handle="4c86bd90659d6" parent="646c719114941" root="343b3b7c1640c" order="4" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H4" charCount="475" wordCount="82" paraCount="6" cursorPos="536" />
+      <name status="s2cda52" import="ie71627" active="yes">Texting Finished</name>
     </item>
     <item handle="d97c1374a04b2" parent="a7b093e9e0e86" root="343b3b7c1640c" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
       <meta expanded="yes" heading="H3" charCount="1806" wordCount="332" paraCount="16" cursorPos="838" />
       <name status="s2cda52" import="ie71627" active="yes">Scene 1.2: Bull Barges In</name>
     </item>
     <item handle="31e6cd7813279" parent="a7b093e9e0e86" root="343b3b7c1640c" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H3" charCount="1160" wordCount="184" paraCount="14" cursorPos="516" />
+      <meta expanded="no" heading="H3" charCount="1202" wordCount="194" paraCount="15" cursorPos="86" />
       <name status="s2cda52" import="ie71627" active="yes">Flashback: Gerald Helps Nicolas Study</name>
     </item>
     <item handle="3541a04417329" parent="a7b093e9e0e86" root="343b3b7c1640c" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -94,8 +94,8 @@
       <name status="sb517b6" import="ie71627" active="yes">Chapter ? 1</name>
     </item>
     <item handle="78968411bd433" parent="1adcef5ee8029" root="343b3b7c1640c" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H3" charCount="19" wordCount="4" paraCount="0" cursorPos="106" />
-      <name status="sb517b6" import="ie71627" active="yes">Scene ?.?: Gay Club</name>
+      <meta expanded="no" heading="H3" charCount="1255" wordCount="234" paraCount="10" cursorPos="1370" />
+      <name status="s2cda52" import="ie71627" active="yes">Scene ?.?: Gay Club</name>
     </item>
     <item handle="b7418f847316d" parent="None" root="b7418f847316d" order="1" type="ROOT" class="PLOT">
       <meta expanded="yes" />
@@ -106,7 +106,7 @@
       <name status="sb517b6" import="ie71627">Paprika Nicolas Notes</name>
     </item>
     <item handle="e238474f538cd" parent="baa75d7a71e60" root="b7418f847316d" order="0" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="1857" wordCount="310" paraCount="21" cursorPos="3345" />
+      <meta expanded="no" heading="H1" charCount="1786" wordCount="302" paraCount="20" cursorPos="3279" />
       <name status="sb517b6" import="ie71627" active="yes">Overview: Paprika - Nicolas</name>
     </item>
     <item handle="c5f24836015be" parent="baa75d7a71e60" root="b7418f847316d" order="1" type="FILE" class="PLOT" layout="NOTE">
@@ -114,7 +114,7 @@
       <name status="sb517b6" import="ieeee7c" active="yes">Plot Overview</name>
     </item>
     <item handle="8c90babd70097" parent="baa75d7a71e60" root="b7418f847316d" order="2" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="3955" wordCount="671" paraCount="25" cursorPos="4232" />
+      <meta expanded="no" heading="H1" charCount="3963" wordCount="672" paraCount="25" cursorPos="99" />
       <name status="sb517b6" import="ieeee7c" active="yes">Chapter 1 notes</name>
     </item>
     <item handle="b66b417a56929" parent="baa75d7a71e60" root="b7418f847316d" order="3" type="FILE" class="PLOT" layout="NOTE">
@@ -122,8 +122,8 @@
       <name status="sb517b6" import="ie71627" active="yes">Chapter 2 notes</name>
     </item>
     <item handle="9e9def1ff86e0" parent="baa75d7a71e60" root="b7418f847316d" order="4" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="1503" wordCount="267" paraCount="9" cursorPos="141" />
-      <name status="sb517b6" import="i279946" active="yes">Chapter ? notes</name>
+      <meta expanded="no" heading="H1" charCount="1503" wordCount="267" paraCount="9" cursorPos="894" />
+      <name status="sb517b6" import="i58104d" active="yes">Chapter ? notes</name>
     </item>
     <item handle="beaa36d0c984c" parent="None" root="beaa36d0c984c" order="2" type="ROOT" class="CHARACTER">
       <meta expanded="yes" />
@@ -134,7 +134,7 @@
       <name status="sb517b6" import="ieeee7c">Main Characters</name>
     </item>
     <item handle="35dff61da356e" parent="dff1cd81aa441" root="beaa36d0c984c" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="2434" wordCount="355" paraCount="9" cursorPos="2105" />
+      <meta expanded="no" heading="H1" charCount="2546" wordCount="369" paraCount="10" cursorPos="2122" />
       <name status="sb517b6" import="i58104d" active="yes">Nicolas</name>
     </item>
     <item handle="3996ebfde413b" parent="dff1cd81aa441" root="beaa36d0c984c" order="1" type="FILE" class="CHARACTER" layout="NOTE">

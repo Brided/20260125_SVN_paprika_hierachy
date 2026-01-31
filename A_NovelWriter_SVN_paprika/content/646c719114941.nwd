@@ -1,8 +1,8 @@
 %%~name: Scene 1.1: Rotting In Bed
 %%~path: a7b093e9e0e86/646c719114941
 %%~kind: NOVEL/DOCUMENT
-%%~hash: 8c550557dab430093028983968e9bcdcf1710fb5
-%%~date: 2026-01-25 21:03:34/2026-01-31 20:32:58
+%%~hash: af5b43326f78be9d7798b9d73dd695b178dac654
+%%~date: 2026-01-25 21:03:34/2026-01-31 21:50:09
 ### Scene 1.1: Rotting In Bed
 
 @tag: Scene1.1 | Rotting In Bed
@@ -23,7 +23,7 @@
 - Light leaks in. The room is quiet.
 
 **% State**: Nicolas thinking
-n_thought "Well here I am…"
+n_thought "Yet, here I am…"
 n_thought "Looking at the ceiling of my room…"
 n_thought "Ruminating… Thinking about nothing…"
 n_thought "…"
@@ -68,8 +68,9 @@ n_thought "Maybe I should text him first."
 **% Show:** Phone, friends' contacts on the screen
 
 **(MENU)** Player chooses from a list of friends’ contact list.
-• "Big Bull Gerald" (Will happen no matter what)
-• "Nathan" (Will be met, regardless)
+• "Big Bull Gerald"
+• "Nathan"
+• "Chef"
 
 **(FIRST CHOICE)**
 n_thought "Who do I text?"
@@ -80,3 +81,6 @@ n_thought "Who do I text?"
 
 **(NO MORE CHOICES / END CHOICES)**
 n_thought "Well… I guess that's all for now."
+
+- Then choice of friend and texting selected friend paragraph
+- Repeat until every friend is contacted

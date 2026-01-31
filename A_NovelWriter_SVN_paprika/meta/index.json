@@ -1,7 +1,7 @@
 {
   "novelWriter.meta": {
     "version": "0x020802f0",
-    "timestamp": "2026-01-31 20:59:09"
+    "timestamp": "2026-01-31 22:04:09"
   },
   "novelWriter.tagsIndex": {
     "plotoverview": {"name": "PlotOverview", "display": "PlotOverview", "handle": "c5f24836015be", "heading": "T0001", "class": "PLOT"},
@@ -9,11 +9,11 @@
     "scene1.1": {"name": "Scene1.1", "display": "Rotting In Bed", "handle": "646c719114941", "heading": "T0001", "class": "NOVEL"},
     "scene1.3": {"name": "Scene1.3", "display": "Street", "handle": "3541a04417329", "heading": "T0001", "class": "NOVEL"},
     "scene1.2": {"name": "Scene1.2", "display": "Bull Barges In", "handle": "d97c1374a04b2", "heading": "T0001", "class": "NOVEL"},
-    "plotnote1.2": {"name": "PlotNote1.2", "display": "PlotNote1.2", "handle": "8c90babd70097", "heading": "T0007", "class": "PLOT"},
-    "plotnote1.1gerald": {"name": "PlotNote1.1Gerald", "display": "PlotNote1.1Gerald", "handle": "8c90babd70097", "heading": "T0003", "class": "PLOT"},
-    "plotnote1.3": {"name": "PlotNote1.3", "display": "PlotNote1.3", "handle": "8c90babd70097", "heading": "T0009", "class": "PLOT"},
-    "plotnote1.1nathan": {"name": "PlotNote1.1Nathan", "display": "PlotNote1.1Nathan", "handle": "8c90babd70097", "heading": "T0004", "class": "PLOT"},
-    "plotnote1.1": {"name": "PlotNote1.1", "display": "PlotNote1.1", "handle": "8c90babd70097", "heading": "T0002", "class": "PLOT"},
+    "plotnote1.2": {"name": "PlotNote1.2", "display": "PlotNote1.2", "handle": "8c90babd70097", "heading": "T0008", "class": "PLOT"},
+    "plotnote1.1gerald": {"name": "PlotNote1.1Gerald", "display": "PlotNote1.1Gerald", "handle": "8c90babd70097", "heading": "T0004", "class": "PLOT"},
+    "plotnote1.3": {"name": "PlotNote1.3", "display": "PlotNote1.3", "handle": "8c90babd70097", "heading": "T0010", "class": "PLOT"},
+    "plotnote1.1nathan": {"name": "PlotNote1.1Nathan", "display": "PlotNote1.1Nathan", "handle": "8c90babd70097", "heading": "T0005", "class": "PLOT"},
+    "plotnote1.1": {"name": "PlotNote1.1", "display": "PlotNote1.1", "handle": "8c90babd70097", "heading": "T0003", "class": "PLOT"},
     "scene 2.1": {"name": "Scene 2.1", "display": "Scene 2.1", "handle": "1265a10f3a967", "heading": "T0001", "class": "NOVEL"},
     "plotnotech1genesis": {"name": "PlotNoteCh1Genesis", "display": "PlotNoteCh1Genesis", "handle": "8c90babd70097", "heading": "T0001", "class": "PLOT"},
     "plotnotech2more": {"name": "PlotNoteCh2More", "display": "PlotNoteCh2More", "handle": "b66b417a56929", "heading": "T0001", "class": "PLOT"},
@@ -26,9 +26,9 @@
     "scene1.1_textgerald": {"name": "Scene1.1_TextGerald", "display": "Scene1.1_TextGerald", "handle": "71e4e2ee80ea6", "heading": "T0001", "class": "NOVEL"},
     "scene1.1_textnathan": {"name": "Scene1.1_TextNathan", "display": "Scene1.1_TextNathan", "handle": "353d0635bed6f", "heading": "T0001", "class": "NOVEL"},
     "char_anthony": {"name": "Char_Anthony", "display": "Char_Anthony", "handle": "380ae815efe5f", "heading": "T0001", "class": "CHARACTER"},
-    "plotnote1.1chef": {"name": "PlotNote1.1Chef", "display": "PlotNote1.1Chef", "handle": "8c90babd70097", "heading": "T0005", "class": "PLOT"},
+    "plotnote1.1chef": {"name": "PlotNote1.1Chef", "display": "PlotNote1.1Chef", "handle": "8c90babd70097", "heading": "T0006", "class": "PLOT"},
     "scene1.1_textchef": {"name": "Scene1.1_TextChef", "display": "Scene1.1_TextChef", "handle": "fec575231fe57", "heading": "T0001", "class": "NOVEL"},
-    "plotnote1.1mom": {"name": "PlotNote1.1Mom", "display": "PlotNote1.1Mom", "handle": "8c90babd70097", "heading": "T0006", "class": "PLOT"},
+    "plotnote1.1mom": {"name": "PlotNote1.1Mom", "display": "PlotNote1.1Mom", "handle": "8c90babd70097", "heading": "T0007", "class": "PLOT"},
     "scene1.1_momcalls": {"name": "Scene1.1_MomCalls", "display": "Scene1.1_MomCalls", "handle": "828e389a65027", "heading": "T0001", "class": "NOVEL"},
     "char_mom1_linda": {"name": "Char_Mom1_Linda", "display": "Char_Mom1_Linda", "handle": "bc695effca52f", "heading": "T0001", "class": "CHARACTER"},
     "char_mom2_yasmine": {"name": "Char_Mom2_Yasmine", "display": "Char_Mom2_Yasmine", "handle": "51df087ebe4cc", "heading": "T0001", "class": "CHARACTER"},
@@ -36,9 +36,11 @@
     "location_redlightdistrict": {"name": "Location_RedLightDistrict", "display": "Location_RedLightDistrict", "handle": "1d1a7f1928341", "heading": "T0001", "class": "WORLD"},
     "time_year_2026": {"name": "Time_Year_2026", "display": "Time_Year_2026", "handle": "3afecf532f1bd", "heading": "T0001", "class": "TIMELINE"},
     "flashbackstudy": {"name": "FlashbackStudy", "display": "FlashbackStudy", "handle": "31e6cd7813279", "heading": "T0001", "class": "NOVEL"},
-    "plotnoteflashstudy": {"name": "PlotNoteFlashStudy", "display": "PlotNoteFlashStudy", "handle": "8c90babd70097", "heading": "T0008", "class": "PLOT"},
+    "plotnoteflashstudy": {"name": "PlotNoteFlashStudy", "display": "PlotNoteFlashStudy", "handle": "8c90babd70097", "heading": "T0009", "class": "PLOT"},
     "paragraph_gayclub_at_club": {"name": "Paragraph_GayClub_At_Club", "display": "Paragraph_GayClub_At_Club", "handle": "78968411bd433", "heading": "T0001", "class": "NOVEL"},
-    "time_studentyears": {"name": "Time_StudentYears", "display": "Time_StudentYears", "handle": "c28cfe704ab6b", "heading": "T0001", "class": "TIMELINE"}
+    "time_studentyears": {"name": "Time_StudentYears", "display": "Time_StudentYears", "handle": "c28cfe704ab6b", "heading": "T0001", "class": "TIMELINE"},
+    "prologue": {"name": "Prologue", "display": "Prologue", "handle": "857ed0089d5bd", "heading": "T0001", "class": "NOVEL"},
+    "plotnoteprologue": {"name": "PlotNotePrologue", "display": "PlotNotePrologue", "handle": "8c90babd70097", "heading": "T0002", "class": "PLOT"}
   },
   "novelWriter.itemIndex": {
     "45d1431715ae0": {
@@ -60,7 +62,7 @@
         "summary": "Nicolas is in bed then texts friends."
       },
       "T0002": {
-        "meta": {"level": "H4", "title": "Texting Choice", "line": 58, "tag": "", "counts": [426, 72, 5]},
+        "meta": {"level": "H4", "title": "Texting Choice", "line": 58, "tag": "", "counts": [480, 82, 6]},
         "refs": {"char_nicolas": "@char,@pov"}
       }
     },
@@ -114,13 +116,13 @@
         "meta": {"level": "H2", "title": "Personality", "line": 41, "tag": "", "counts": [280, 40, 1]}
       },
       "T0007": {
-        "meta": {"level": "H2", "title": "Background", "line": 47, "tag": "", "counts": [672, 115, 1]}
+        "meta": {"level": "H2", "title": "Background", "line": 47, "tag": "", "counts": [784, 129, 2]}
       },
       "T0008": {
-        "meta": {"level": "H2", "title": "Relationships", "line": 55, "tag": "", "counts": [92, 9, 1]}
+        "meta": {"level": "H2", "title": "Relationships", "line": 57, "tag": "", "counts": [92, 9, 1]}
       },
       "T0009": {
-        "meta": {"level": "H2", "title": "Reactions", "line": 60, "tag": "", "counts": [138, 17, 1]}
+        "meta": {"level": "H2", "title": "Reactions", "line": 62, "tag": "", "counts": [138, 17, 1]}
       }
     },
     "7f7570e23de55": {
@@ -177,37 +179,41 @@
         "meta": {"level": "H1", "title": "Chapter 1 notes", "line": 1, "tag": "plotnotech1genesis", "counts": [15, 3, 0]}
       },
       "T0002": {
-        "meta": {"level": "H2", "title": "Scene 1.1: Rotting In Bed", "line": 7, "tag": "plotnote1.1", "counts": [535, 90, 6]},
+        "meta": {"level": "H4", "title": "Prologue", "line": 5, "tag": "plotnoteprologue", "counts": [8, 1, 0]},
+        "refs": {"prologue": "@story"}
+      },
+      "T0003": {
+        "meta": {"level": "H2", "title": "Scene 1.1: Rotting In Bed", "line": 10, "tag": "plotnote1.1", "counts": [535, 90, 6]},
         "refs": {"scene1.1": "@story"},
         "summary": "Nicolas is in bed then texts friends."
       },
-      "T0003": {
-        "meta": {"level": "H4", "title": "Texting Gerald", "line": 35, "tag": "plotnote1.1gerald", "counts": [239, 43, 1]},
+      "T0004": {
+        "meta": {"level": "H4", "title": "Texting Gerald", "line": 38, "tag": "plotnote1.1gerald", "counts": [239, 43, 1]},
         "refs": {"scene1.1_textgerald": "@story"}
       },
-      "T0004": {
-        "meta": {"level": "H4", "title": "Texting Nathan", "line": 44, "tag": "plotnote1.1nathan", "counts": [302, 57, 1]},
+      "T0005": {
+        "meta": {"level": "H4", "title": "Texting Nathan", "line": 47, "tag": "plotnote1.1nathan", "counts": [302, 57, 1]},
         "refs": {"scene1.1_textnathan": "@story"}
       },
-      "T0005": {
-        "meta": {"level": "H4", "title": "Texting \"Chef\"", "line": 55, "tag": "plotnote1.1chef", "counts": [218, 40, 1]},
+      "T0006": {
+        "meta": {"level": "H4", "title": "Texting \"Chef\"", "line": 58, "tag": "plotnote1.1chef", "counts": [218, 40, 1]},
         "refs": {"scene1.1_textchef": "@story"}
       },
-      "T0006": {
-        "meta": {"level": "H4", "title": "Mom", "line": 66, "tag": "plotnote1.1mom", "counts": [1024, 187, 3]},
+      "T0007": {
+        "meta": {"level": "H4", "title": "Mom", "line": 69, "tag": "plotnote1.1mom", "counts": [1024, 187, 3]},
         "refs": {"scene1.1_momcalls": "@story"}
       },
-      "T0007": {
-        "meta": {"level": "H2", "title": "Scene 1.2", "line": 90, "tag": "plotnote1.2", "counts": [1364, 210, 6]},
+      "T0008": {
+        "meta": {"level": "H2", "title": "Scene 1.2", "line": 93, "tag": "plotnote1.2", "counts": [1364, 210, 6]},
         "refs": {"scene1.2": "@story"},
         "summary": "Gerald is here, conversation"
       },
-      "T0008": {
-        "meta": {"level": "H4", "title": "Flashback Study", "line": 136, "tag": "plotnoteflashstudy", "counts": [81, 12, 1]},
+      "T0009": {
+        "meta": {"level": "H4", "title": "Flashback Study", "line": 139, "tag": "plotnoteflashstudy", "counts": [81, 12, 1]},
         "refs": {"flashbackstudy": "@story"}
       },
-      "T0009": {
-        "meta": {"level": "H2", "title": "Scene 1.3", "line": 145, "tag": "plotnote1.3", "counts": [177, 29, 6]},
+      "T0010": {
+        "meta": {"level": "H2", "title": "Scene 1.3", "line": 148, "tag": "plotnote1.3", "counts": [177, 29, 6]},
         "refs": {"scene1.3": "@story"},
         "summary": "Nicolas and Gerald are out on the street"
       }
@@ -433,18 +439,18 @@
     },
     "e238474f538cd": {
       "T0001": {
-        "meta": {"level": "H1", "title": "Overview: Paprika - Nicolas", "line": 1, "tag": "", "counts": [140, 27, 3]},
+        "meta": {"level": "H1", "title": "Overview: Paprika - Nicolas", "line": 1, "tag": "", "counts": [143, 29, 3]},
         "summary": "Starts with Nicolas's loneliness, lying in bed; Ends with him confessing to Gerald, his true love."
       },
       "T0002": {
-        "meta": {"level": "H2", "title": "Description", "line": 12, "tag": "", "counts": [321, 48, 1]}
+        "meta": {"level": "H2", "title": "Description", "line": 13, "tag": "", "counts": [321, 48, 1]}
       },
       "T0003": {
-        "meta": {"level": "H2", "title": "Chapters", "line": 16, "tag": "", "counts": [661, 126, 8]},
+        "meta": {"level": "H2", "title": "Chapters", "line": 17, "tag": "", "counts": [661, 126, 8]},
         "summary": "Nicolas starts reaching out to friends, starting with Nathan and Gerald.\n\nNicolas looks for jobs, with help from Gerald, Nathan maybe.\n\nAnthony texted yesterday, Nicolas visits Anthony's restaurant.\n\nNicolas realizes his growing feelings for Gerald during the previous chapters\u2026 Not yet confessed.\n\nNicolas confesses to Gerald, leading to a new chapter in their relationship.\n\nNicolas and Gerald embark on a new chapter together, exploring their relationship and future."
       },
       "T0004": {
-        "meta": {"level": "H2", "title": "Intermissions", "line": 52, "tag": "", "counts": [735, 109, 9]},
+        "meta": {"level": "H2", "title": "Intermissions", "line": 53, "tag": "", "counts": [661, 99, 8]},
         "summary": "Flashback to university days, where Nicolas first developed a crush on Gerald.\n\nFlashback to late nights studying with Gerald during university.\n\nFlashback to Nicolas wanting to reconnect but being anxious about texting Gerald, due to being too long ago, procrastinating instead until night\u2026 or not.\n\nFlashback to Nicolas trying to connect with another office coworker, Anthony, and having some success, actually.\n\nFlashback to the moment Nicolas lost his job, reflecting on his feelings of inadequacy and loneliness.\n\nFlashback to Nicolas hitting rock bottom during his unemployment days, contemplating his life choices and future.\n\nFirst Scene of Chapter 1, Nicolas deciding to text friends after a long period of isolation."
       }
     },
@@ -459,14 +465,15 @@
     },
     "31e6cd7813279": {
       "T0001": {
-        "meta": {"level": "H3", "title": "Flashback: Gerald Helps Nicolas Study", "line": 1, "tag": "flashbackstudy", "counts": [1160, 184, 14]},
+        "meta": {"level": "H3", "title": "Flashback: Gerald Helps Nicolas Study", "line": 1, "tag": "flashbackstudy", "counts": [1202, 194, 15]},
         "refs": {"plotnoteflashstudy": "@plot", "time_studentyears": "@time"},
         "summary": "Flashback to late nights studying with Gerald during university."
       }
     },
     "857ed0089d5bd": {
       "T0001": {
-        "meta": {"level": "H3", "title": "Flashback: Prologue", "line": 1, "tag": "", "counts": [19, 2, 0]}
+        "meta": {"level": "H3", "title": "Flashback: Prologue", "line": 1, "tag": "prologue", "counts": [1463, 257, 14]},
+        "refs": {"plotnoteprologue": "@plot"}
       }
     },
     "4c86bd90659d6": {
@@ -477,7 +484,7 @@
     },
     "78968411bd433": {
       "T0001": {
-        "meta": {"level": "H3", "title": "Scene ?.?: Gay Club", "line": 1, "tag": "paragraph_gayclub_at_club", "counts": [19, 4, 0]},
+        "meta": {"level": "H3", "title": "Scene ?.?: Gay Club", "line": 1, "tag": "paragraph_gayclub_at_club", "counts": [1255, 234, 10]},
         "summary": "Nicolas and Gerald are at the Gay Club."
       }
     },

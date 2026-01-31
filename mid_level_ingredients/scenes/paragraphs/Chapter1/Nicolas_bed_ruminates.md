@@ -32,7 +32,7 @@ Nicolas is lying in bed, staring at the ceiling, feeling purpose-less and lonely
 - Light leaks in. The room is quiet.
 
 **% State**: Nicolas thinking
-n_thought "Well here I am…"
+n_thought "Yet, here I am…"
 n_thought "Looking at the ceiling of my room…"
 n_thought "Ruminating… Thinking about nothing…"
 n_thought "…"
@@ -71,8 +71,9 @@ n_thought "But then I have a crush on him… so… Idk."
 **% Show:** Phone, friends' contacts on the screen
 
 **(MENU)** Player chooses from a list of friends’ contact list.
-• "Big Bull Gerald" (Will happen no matter what)
-• "Nathan" (Will be met, regardless)
+• "Big Bull Gerald"
+• "Nathan"
+• "Chef"
 
 **(FIRST CHOICE)**
 n_thought "Who do I text?"

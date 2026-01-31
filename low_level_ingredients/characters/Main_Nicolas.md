@@ -51,8 +51,10 @@ Nicolas is a young anthropomorphic crowned eagle with green and golden feathers 
 
 This is partly because Nicolas had a crush on Gerald but never acted on it, leading to some distance between them.
 
-After years of philosophy education just to land at an office job he hated, he got fired due to downsizing. Has been unemployed since then, struggling to find purpose and direction in life.
-**Education**: Philosophy degree.
+After years of theriopology education just to land at an office job he hated, he got fired due to downsizing. Has been unemployed since then, struggling to find purpose and direction in life.
+**Education**: Theriopology degree, University graduate
+
+Therioplogy: study of animal behavior and social structures, anthropology of this world.
 
 ## Relationships
 

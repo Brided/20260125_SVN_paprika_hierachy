@@ -1,13 +1,12 @@
-%%~name: Flashback: Prologue
-%%~path: 343b3b7c1640c/857ed0089d5bd
-%%~kind: NOVEL/DOCUMENT
-%%~hash: 5bb62f71c73a8ab30977556b9fd13892d011802e
-%%~date: 2026-01-31 20:25:18/2026-01-31 22:02:11
-### Flashback: Prologue
+# Paragraph: Prologue
 
-@tag: Prologue
-@plot: PlotNotePrologue
+@tag: Paragraph_Prologue
+%Short: Introduction to Nicolas's world and mindset.
 
+## Description
+This prologue paragraph sets the stage for the story by introducing Nicolas, the protagonist, and providing insight into his thoughts and feelings as he reflects on his university days and his initial encounter with Gerald. It establishes the themes of longing, self-discovery, and the beginning of a significant relationship that will unfold throughout the narrative.
+
+## Script
 n_thought "University days…"
 n_thought "So many memories…"
 n_thought "So much work…"

@@ -21,12 +21,14 @@ n_narrate "_(Gerald is sitting next to me, patiently explaining a difficult conc
 
 n_thought "Affection…"
 
-g “Desire wants something from someone. Affection is… staying, even when you don’t.”
-g “If you only stay because you want something, that’s not affection. Affection’s what’s left when wanting quiets down.”
+g "Desire wants something from someone. Affection is… staying, even when you don’t."
+g "If you only stay because you want something, that’s not affection. Affection’s what’s left when wanting quiets down."
+
+g "That's all I know about it."
 
 n_narrate "_(Gerald smiles reassuringly as I finally grasp the concept.)_"
 
-n "That's… actually really helpful, Gerald. Thanks."
+n "That's… actually really helpful, Gerald. Thank you so much."
 
 n_thought "Did he just… smile at me?"
 n_thought "Why did he smile like that?"

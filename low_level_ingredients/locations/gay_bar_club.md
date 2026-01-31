@@ -11,7 +11,7 @@ Gay bar and club located in the city's Red Light District. A lively and colorful
 - One ground level with a bar area, and seating.
 - One underground level with private booths, VIP areas, another bar, another dance floor, and a stage for performances.
 
-**name**: 
+**name**: The Beary Chub Club (Play off of "The Very Chubby Club")
 
 **Connected to**:
 @location: Location_RedLightDistrict

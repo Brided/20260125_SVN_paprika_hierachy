@@ -58,26 +58,32 @@ Intermissions between chapters are all short flashbacks to Nicolas's past.
 %Short: Flashback to university days, where Nicolas first developed a crush on Gerald.
 - Then Chapter 1
 
+
 - Intermission: Late Nights Studying (University Days)
 - Paragraph_Gerald_Helps_Study
 %Short: Flashback to late nights studying with Gerald during university.
 - Inserted into Chapter 1 (when they go out to meet Nathan)
 
+
 - Intermission: Texting Procrastination (Office Work Days)
 %Short: Flashback to Nicolas wanting to reconnect but being anxious about texting Gerald, due to being too long ago, procrastinating instead until night… or not.
 - Then Chapter 2
+
 
 - Intermission: Trying To Connect (Office Work Days)
 %Short: Flashback to Nicolas trying to connect with another office coworker, Anthony, and having some success, actually.
 - Then Chapter 3
 
+
 - Intermission: Job Loss Reflection (Unemployment Days)
 %Short: Flashback to the moment Nicolas lost his job, reflecting on his feelings of inadequacy and loneliness.
 - Then Chapter 4
 
+
 - Intermission: Rock Bottom Reflection (Unemployment Days)
 %Short: Flashback to Nicolas hitting rock bottom during his unemployment days, contemplating his life choices and future.
 - Then Chapter 5
+
 
 - Intermission: Decision (Unemployment Days)
 %Short: First Scene of Chapter 1, Nicolas deciding to text friends after a long period of isolation.
