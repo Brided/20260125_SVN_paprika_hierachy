@@ -32,7 +32,7 @@ He will accompany Nicolas in various situations, often providing a calming influ
 **Age / Birthday**: 27 years old
 **Orientation**: Bisexual
 **Occupation / Role**: Protagonist, Sidekick, Love interest
-**Job**: Fishmonger
+**Job**: Fishmonger, unlike Nicolas, Gerald chose something tangible after university — the fish market felt real.
 
 **Contact name**: Big Bull Gerald
 

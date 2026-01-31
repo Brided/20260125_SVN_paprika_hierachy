@@ -1,8 +1,8 @@
 %%~name: Scene 1.2: Bull Barges In
 %%~path: a7b093e9e0e86/d97c1374a04b2
 %%~kind: NOVEL/DOCUMENT
-%%~hash: 5d78abdfcdf855efed5c97753f7e96799b009e09
-%%~date: 2026-01-25 21:03:34/2026-01-31 11:28:34
+%%~hash: f77cc18589a9516aa547b67a47184a9f888545da
+%%~date: 2026-01-25 21:03:34/2026-01-31 20:38:56
 ### Scene 1.2: Bull Barges In
 
 @tag: Scene1.2 | Bull Barges In
@@ -34,8 +34,6 @@ n "Yeah, I've been avoiding you. Scared of what you think of me."
 
 n "Yeah…"
 n_thought "I'm such a coward…"
-
-- Nicolas tenses a bit, unsure of how to proceed.
 
 g "Nicolas, you don’t have to be scared of me. I’m your friend."
 g "I’m just happy you reached out."

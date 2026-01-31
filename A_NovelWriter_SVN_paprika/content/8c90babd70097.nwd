@@ -1,8 +1,8 @@
 %%~name: Chapter 1 notes
 %%~path: baa75d7a71e60/8c90babd70097
 %%~kind: PLOT/NOTE
-%%~hash: 4068467fb878f8ff8bc5f23fe9d7f5508315035e
-%%~date: 2026-01-27 15:06:11/2026-01-31 12:05:25
+%%~hash: 816a364b8d32c8d5675b354b372e716efe66cfc4
+%%~date: 2026-01-27 15:06:11/2026-01-31 20:49:08
 # Chapter 1 notes
 
 @tag: PlotNoteCh1Genesis
@@ -138,21 +138,12 @@
 	- Distance / hesitation
 	- Crush tension
 
-#### Gerald Conversation
+#### Flashback Study
 
-@tag: PlotNote1.2Gerald
-@story: Scene1.2_TalkGerald
+@tag: PlotNoteFlashStudy
+@story: FlashbackStudy
 
-**Entry State**:
-- Talking to Gerald
-
-**Change / Decision**: 
-- Getting to know what Gerald has been up to since
-
-**Exit State**: 
-- Nicolas is more confident
-
-% TODO???
+- Flashback to late nights studying with Gerald during university.
 
 
 

@@ -25,7 +25,7 @@ Nicolas is a young anthropomorphic crowned eagle with green and golden feathers 
 **Nicknames / Aliases**: Nick, Nickle
 **Gender / Pronouns**: Male, He/Him
 **Species / Race**: Crowned Eagle (Anthropomorphic)
-**Age / Birthday**: 22 years old
+**Age / Birthday**: 27 years old
 **Orientation**: Gay
 **Occupation / Role**: Protagonist
 **Job**: Unemployed

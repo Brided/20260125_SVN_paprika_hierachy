@@ -162,8 +162,6 @@ n "Yeah, I've been avoiding you. Scared of what you think of me."
 n "Yeah…"
 n_thought "I'm such a coward…"
 
-- Nicolas tenses a bit, unsure of how to proceed.
-
 g "Nicolas, you don’t have to be scared of me. I’m your friend."
 g "I’m just happy you reached out."
 g "Tell me what’s on your mind."

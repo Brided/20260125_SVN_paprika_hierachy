@@ -9,6 +9,8 @@
 @location: Location_GayBarClub
 
 ## Notes
+**ALL**: - Paragraph_GayClub_At_Club
+
 **Entry State**:
 - Nicolas wanted to experience a new kind of social setting: more spicy, lively.
 - Gerald is excited to show Nicolas a fun time.

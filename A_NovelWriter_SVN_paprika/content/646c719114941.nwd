@@ -1,8 +1,8 @@
 %%~name: Scene 1.1: Rotting In Bed
 %%~path: a7b093e9e0e86/646c719114941
 %%~kind: NOVEL/DOCUMENT
-%%~hash: 3e010f013d550ba55ad365534eef04189f2e3fd5
-%%~date: 2026-01-25 21:03:34/2026-01-30 11:32:14
+%%~hash: 8c550557dab430093028983968e9bcdcf1710fb5
+%%~date: 2026-01-25 21:03:34/2026-01-31 20:32:58
 ### Scene 1.1: Rotting In Bed
 
 @tag: Scene1.1 | Rotting In Bed
@@ -80,27 +80,3 @@ n_thought "Who do I text?"
 
 **(NO MORE CHOICES / END CHOICES)**
 n_thought "Well… I guess that's all for now."
-
-
-
-#### Texting Finished
-
-@char: Char_Nicolas
-@pov: Char_Nicolas
-
-n_thought "Weird… I only have those contacts saved on my phone…"
-n_thought "…"
-n_thought "I wasn't very outgoing back then…"
-n_thought "Maybe that's why I don't have many friends…"
-
-n "sigh…"
-
-n_narrate "_(I look out the window as I put down my phone.)_"
-
-n_thought "There's all people who all got it figured out…"
-n_thought "And I don't… What am I?"
-
-n_narrate "_(I stand up and walk around.)_"
-
-- Nicolas's mom phones him as he does light activities around his apartment.
-% Or dad?? Idk
