@@ -65,7 +65,26 @@
     },
     "GuiOutline": {
       "columnState": {
-        "TITLE": [false, 1640]
+        "TITLE": [false, 1640],
+        "LEVEL": [true, 40],
+        "LABEL": [false, 150],
+        "LINE": [true, 40],
+        "STATUS": [true, 100],
+        "CCOUNT": [true, 50],
+        "WCOUNT": [false, 50],
+        "PCOUNT": [false, 50],
+        "POV": [false, 100],
+        "FOCUS": [true, 100],
+        "CHAR": [false, 100],
+        "PLOT": [false, 100],
+        "TIME": [true, 100],
+        "WORLD": [false, 100],
+        "OBJECT": [true, 100],
+        "ENTITY": [true, 100],
+        "CUSTOM": [true, 100],
+        "STORY": [true, 100],
+        "MENTION": [true, 100],
+        "SYNOP": [false, 200]
       }
     },
     "GuiManuscriptBuild": {

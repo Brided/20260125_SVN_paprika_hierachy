@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.8.2" hexVersion="0x020802f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-01-31 22:04:09">
-  <project id="ba72b21e-b4bc-48b6-9dd5-1b777d4eb4b2" saveCount="22" autoCount="703" editTime="114599">
+<novelWriterXML appVersion="2.8.2" hexVersion="0x020802f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-01-31 22:08:03">
+  <project id="ba72b21e-b4bc-48b6-9dd5-1b777d4eb4b2" saveCount="23" autoCount="705" editTime="114833">
     <name>20260125_SVN_paprika</name>
     <author>Brided</author>
   </project>
@@ -9,7 +9,7 @@
     <language>en_GB</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">857ed0089d5bd</entry>
+      <entry key="editor">31e6cd7813279</entry>
       <entry key="viewer">None</entry>
       <entry key="novel">343b3b7c1640c</entry>
       <entry key="outline">343b3b7c1640c</entry>
