@@ -1,7 +1,7 @@
 {
   "novelWriter.meta": {
     "version": "0x020802f0",
-    "timestamp": "2026-02-01 21:10:34"
+    "timestamp": "2026-02-01 22:52:13"
   },
   "novelWriter.tagsIndex": {
     "prologue": {"name": "Prologue", "display": "Prologue", "handle": "857ed0089d5bd", "heading": "T0001", "class": "NOVEL"},
@@ -565,7 +565,7 @@
         "summary": "Study of animal behavior and social structures, anthropology of this world."
       },
       "T0002": {
-        "meta": {"level": "H2", "title": "Definition", "line": 10, "tag": "", "counts": [252, 32, 2]}
+        "meta": {"level": "H2", "title": "Definitions", "line": 10, "tag": "", "counts": [253, 32, 2]}
       }
     }
   }

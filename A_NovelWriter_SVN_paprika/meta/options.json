@@ -65,9 +65,9 @@
     },
     "GuiOutline": {
       "columnState": {
-        "TITLE": [false, 1640],
+        "TITLE": [false, 325],
         "LEVEL": [true, 40],
-        "LABEL": [false, 150],
+        "LABEL": [false, 155],
         "LINE": [true, 40],
         "STATUS": [true, 100],
         "CCOUNT": [true, 50],
@@ -84,7 +84,7 @@
         "CUSTOM": [true, 100],
         "STORY": [true, 100],
         "MENTION": [true, 100],
-        "SYNOP": [false, 200]
+        "SYNOP": [false, 660]
       }
     },
     "GuiManuscriptBuild": {

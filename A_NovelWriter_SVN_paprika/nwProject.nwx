@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.8.2" hexVersion="0x020802f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-02-01 21:10:34">
-  <project id="ba72b21e-b4bc-48b6-9dd5-1b777d4eb4b2" saveCount="24" autoCount="761" editTime="142528">
+<novelWriterXML appVersion="2.8.2" hexVersion="0x020802f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-02-01 22:52:13">
+  <project id="ba72b21e-b4bc-48b6-9dd5-1b777d4eb4b2" saveCount="25" autoCount="767" editTime="148627">
     <name>20260125_SVN_paprika</name>
     <author>Brided</author>
   </project>
@@ -28,7 +28,7 @@
       <entry key="ieeee7c" count="6" color="#32c800" shape="BARS_3">Main</entry>
     </importance>
   </settings>
-  <content items="55" novelWords="2833" notesWords="4194" novelChars="16332" notesChars="27619">
+  <content items="55" novelWords="2833" notesWords="4194" novelChars="16332" notesChars="27620">
     <item handle="343b3b7c1640c" parent="None" root="343b3b7c1640c" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="sb517b6" import="ie71627">Paprika Nicolas</name>
@@ -94,7 +94,7 @@
       <name status="sb517b6" import="ie71627" active="yes">Chapter ? 1</name>
     </item>
     <item handle="78968411bd433" parent="1adcef5ee8029" root="343b3b7c1640c" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H3" charCount="1296" wordCount="242" paraCount="12" cursorPos="208" />
+      <meta expanded="no" heading="H3" charCount="1296" wordCount="242" paraCount="12" cursorPos="637" />
       <name status="s2cda52" import="ie71627" active="yes">Scene ?.?: Gay Club</name>
     </item>
     <item handle="b7418f847316d" parent="None" root="b7418f847316d" order="1" type="ROOT" class="PLOT">
@@ -150,7 +150,7 @@
       <name status="sb517b6" import="i279946" active="yes">Mom 1 Linda</name>
     </item>
     <item handle="51df087ebe4cc" parent="a61fb293dacaa" root="beaa36d0c984c" order="1" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="2363" wordCount="339" paraCount="10" cursorPos="13" />
+      <meta expanded="no" heading="H1" charCount="2363" wordCount="339" paraCount="10" cursorPos="2484" />
       <name status="sb517b6" import="i279946" active="yes">Mom 2 Yasmine</name>
     </item>
     <item handle="614330ced7de3" parent="beaa36d0c984c" root="beaa36d0c984c" order="2" type="FILE" class="CHARACTER" layout="NOTE">
@@ -202,7 +202,7 @@
       <name status="sb517b6" import="ie71627">World Concepts</name>
     </item>
     <item handle="248a6815cb8d9" parent="08ccd70c0769f" root="08ccd70c0769f" order="0" type="FILE" class="CUSTOM" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="354" wordCount="47" paraCount="3" cursorPos="482" />
+      <meta expanded="no" heading="H1" charCount="355" wordCount="47" paraCount="3" cursorPos="236" />
       <name status="sb517b6" import="ie71627" active="yes">Theriopology</name>
     </item>
     <item handle="c23deafff0598" parent="None" root="c23deafff0598" order="5" type="ROOT" class="TIMELINE">

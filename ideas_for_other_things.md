@@ -27,3 +27,11 @@ A story that intentionally withholds information from the reader, creating a sen
 ## Visual novel story where the reader is a character in the story
 
 Visual novel story where the reader is a character in the story, not necessarily the main one and not influenced by reader, the reader character would be a set one but not to rigid to match the reader.
+
+## Gimmick: Being sensual without saying it outright, subtle
+
+A story that uses subtle hints and descriptions to convey sensuality without explicit language, yet it still reads very sensually. This could involve focusing on sensory details, body language, and emotional connections between characters to create an intimate atmosphere.
+
+## Story with way too much display of affection and tender loving care than explicit scenes
+
+A story that emphasizes affection, tenderness, and emotional intimacy between characters, with minimal explicit content. The focus would be on the development of relationships through caring gestures, loving interactions, and deep emotional bonds.

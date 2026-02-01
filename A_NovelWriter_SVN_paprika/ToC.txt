@@ -39,6 +39,7 @@ content/7c03bd32ac64d.nwd  WORLD      NOTE      Gay Bar Club
 content/1d1a7f1928341.nwd  WORLD      NOTE      Red Light District
 content/9c52b0c0f390f.nwd  WORLD      NOTE      Nathan's Shop
 content/774ffdf902245.nwd  WORLD      NOTE      Oil Rig
+content/248a6815cb8d9.nwd  CUSTOM     NOTE      Theriopology
 content/c28cfe704ab6b.nwd  TIMELINE   NOTE      Year: Student Years
 content/3afecf532f1bd.nwd  TIMELINE   NOTE      Year: 2026
 content/44e18c098ed79.nwd  TEMPLATE   NOTE      Character
