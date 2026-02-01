@@ -31,11 +31,14 @@ content/bc695effca52f.nwd  CHARACTER  NOTE      Mom 1 Linda
 content/51df087ebe4cc.nwd  CHARACTER  NOTE      Mom 2 Yasmine
 content/614330ced7de3.nwd  CHARACTER  NOTE      Nathan
 content/380ae815efe5f.nwd  CHARACTER  NOTE      Anthony
+content/82251596bab5e.nwd  CHARACTER  NOTE      Fergus
+content/fa8dbce866b3f.nwd  WORLD      NOTE      Great Location: City
 content/7f7570e23de55.nwd  WORLD      NOTE      Nicolas’s Apartment
 content/7dab0fb7edb3b.nwd  WORLD      NOTE      Nicolas's Street
 content/7c03bd32ac64d.nwd  WORLD      NOTE      Gay Bar Club
 content/1d1a7f1928341.nwd  WORLD      NOTE      Red Light District
 content/9c52b0c0f390f.nwd  WORLD      NOTE      Nathan's Shop
+content/774ffdf902245.nwd  WORLD      NOTE      Oil Rig
 content/c28cfe704ab6b.nwd  TIMELINE   NOTE      Year: Student Years
 content/3afecf532f1bd.nwd  TIMELINE   NOTE      Year: 2026
 content/44e18c098ed79.nwd  TEMPLATE   NOTE      Character

@@ -1,8 +1,8 @@
 %%~name: Nicolas’s Apartment
 %%~path: 22a163233e35e/7f7570e23de55
 %%~kind: WORLD/NOTE
-%%~hash: 2fc261a50df3282c82ace5d4a12bc6f128e3b72e
-%%~date: 2026-01-25 21:03:34/2026-01-30 10:29:54
+%%~hash: d8d1318df969635083bfbd14ddaa6ac0589890c1
+%%~date: 2026-01-25 21:03:34/2026-02-01 13:23:52
 # Nicolas’s Apartment
 
 @tag: Location_NicoApt
@@ -15,3 +15,7 @@ Apartment where Nicolas lives. He rents it alone in a modest building. It is a s
 
 **Connected to**:
 @location: Location_NicoAptStreet
+
+**Greater Location**:
+@location: Location_NicoAptStreet
+@location: Location_City

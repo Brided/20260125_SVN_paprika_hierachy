@@ -1,13 +1,17 @@
 %%~name: Scene ?.?: Gay Club
 %%~path: 1adcef5ee8029/78968411bd433
 %%~kind: NOVEL/DOCUMENT
-%%~hash: 8f5cc3f85aac8a30923d87779811d254c7a8082f
-%%~date: 2026-01-31 20:34:18/2026-01-31 21:16:03
+%%~hash: 59ff928ac7c63b0fe49d4be6c4a5e5bccb4d0112
+%%~date: 2026-01-31 20:34:18/2026-02-01 15:58:15
 ### Scene ?.?: Gay Club
 
 @tag: Paragraph_GayClub_At_Club
 
 %Short: Nicolas and Gerald are at the Gay Club.
+
+@char: Char_Nicolas, Char_Gerald, Char_Fergus_Owner
+@pov: Char_Nicolas
+@location: Location_GayBarClub
 
 - Before Entering
 
@@ -37,3 +41,7 @@ n "I guess so. Let's check it out."
 - Entering The Club
 
 n_narrate "_(We enter the club, the bass from the music vibrating through the floor.)_"
+
+guy1 "Hey there stunning duo!"
+
+n "Oh! Hi…"

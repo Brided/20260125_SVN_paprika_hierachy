@@ -1,8 +1,8 @@
 %%~name: Nathan's Shop
 %%~path: 22a163233e35e/9c52b0c0f390f
 %%~kind: WORLD/NOTE
-%%~hash: d63277193d59a5681c12b40793498b3442ae6ce0
-%%~date: 2026-01-30 10:28:45/2026-01-30 10:29:16
+%%~hash: a921a09b6381ce2ffa4b60fbf76222e5dfb5649a
+%%~date: 2026-01-30 10:28:45/2026-02-01 13:24:48
 # Location: Nathan's Shop
 
 @tag: Location_NathanShop
@@ -15,3 +15,6 @@ Nathan's Shop is a cozy, well-organized store located in a rather quiet part of 
 
 **Connected to**:
 % TODO???
+
+**Greater Location**:
+@location: Location_City

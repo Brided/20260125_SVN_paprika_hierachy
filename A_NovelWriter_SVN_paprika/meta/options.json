@@ -19,8 +19,8 @@
     "GuiManuscript": {
       "winWidth": 900,
       "winHeight": 600,
-      "optsWidth": 225,
-      "viewWidth": 649,
+      "optsWidth": 242,
+      "viewWidth": 632,
       "listHeight": 201,
       "detailsHeight": 290,
       "detailsWidth": 100,
@@ -33,8 +33,8 @@
       "showNewPage": true
     },
     "GuiProjectSettings": {
-      "winWidth": 650,
-      "winHeight": 500,
+      "winWidth": 852,
+      "winHeight": 753,
       "statusColW": 130,
       "importColW": 130,
       "replaceColW": 130
@@ -100,8 +100,8 @@
       "widthCol1": 80,
       "widthCol2": 80,
       "widthCol3": 80,
-      "sortCol": 4,
-      "sortOrder": "AscendingOrder",
+      "sortCol": 2,
+      "sortOrder": "DescendingOrder",
       "incNovel": true,
       "incNotes": true,
       "hideZeros": true,

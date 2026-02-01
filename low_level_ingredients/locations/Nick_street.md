@@ -10,3 +10,6 @@ Street where Nicolas's apartment is located. A quiet residential area with a few
 
 **Connected to**:
 @location: Location_NicoApt
+
+**Greater Location**:
+@location: Location_City

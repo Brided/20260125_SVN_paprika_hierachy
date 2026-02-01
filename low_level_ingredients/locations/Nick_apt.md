@@ -10,3 +10,7 @@ Apartment where Nicolas lives. He rents it alone in a modest building. It is a s
 
 **Connected to**:
 @location: Location_NicoAptStreet
+
+**Greater Location**:
+@location: Location_NicoAptStreet
+@location: Location_City

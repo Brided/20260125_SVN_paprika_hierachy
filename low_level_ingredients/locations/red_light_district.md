@@ -10,3 +10,6 @@ The Red Light District is a bustling area of the city known for its nightlife, e
 
 **Connected to**:
 @location: Location_GayBarClub
+
+**Greater Location**:
+@location: Location_City

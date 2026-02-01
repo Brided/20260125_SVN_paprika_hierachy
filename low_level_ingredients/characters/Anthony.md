@@ -51,6 +51,8 @@ Anthony is a burly anthropomorphic komodo dragon with dark olive scales adorned 
 **Family / Relationships**: Has a close-knit group of friends and colleagues, but no known family. Close friends with Gerald.
 **History**: Was a coworker with Nathan at an office job, but left to pursue his passion for cooking. Worked his way up from a line cook to a head chef at a popular restaurant. contact name in Nicolas's phone is "Chef" because when Nicolas was working with Anthony at the office job, he only knew him as "that chef guy" due to Anthony always bringing food to share with coworkers.
 
+- Often visits The Beary Chub Club, owned by Fergus, where he enjoys the lively atmosphere.
+
 ## Relationships
 
 **Nicolas**: Customer, acquaintance, ex-coworker.

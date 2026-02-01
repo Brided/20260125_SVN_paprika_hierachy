@@ -1,8 +1,8 @@
 %%~name: Red Light District
 %%~path: 22a163233e35e/1d1a7f1928341
 %%~kind: WORLD/NOTE
-%%~hash: f9c7878895a16e6c54112efd7cae9396255f1c9f
-%%~date: 2026-01-31 12:01:47/2026-01-31 12:02:05
+%%~hash: 99ce92160ec10d85536b59ec00a01813185ba30a
+%%~date: 2026-01-31 12:01:47/2026-02-01 13:24:38
 # Red Light District
 
 @tag: Location_RedLightDistrict
@@ -15,3 +15,6 @@ The Red Light District is a bustling area of the city known for its nightlife, e
 
 **Connected to**:
 @location: Location_GayBarClub
+
+**Greater Location**:
+@location: Location_City

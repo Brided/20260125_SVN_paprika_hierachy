@@ -38,3 +38,5 @@ n "I guess so. Let's check it out."
 n_narrate "_(We enter the club, the bass from the music vibrating through the floor.)_"
 
 guy1 "Hey there stunning duo!"
+
+n "Oh! Hi…"

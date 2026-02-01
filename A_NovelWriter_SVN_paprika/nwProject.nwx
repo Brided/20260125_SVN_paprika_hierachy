@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.8.2" hexVersion="0x020802f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-01-31 22:08:03">
-  <project id="ba72b21e-b4bc-48b6-9dd5-1b777d4eb4b2" saveCount="23" autoCount="705" editTime="114833">
+<novelWriterXML appVersion="2.8.2" hexVersion="0x020802f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-02-01 17:41:52">
+  <project id="ba72b21e-b4bc-48b6-9dd5-1b777d4eb4b2" saveCount="24" autoCount="744" editTime="137128">
     <name>20260125_SVN_paprika</name>
     <author>Brided</author>
   </project>
@@ -9,7 +9,7 @@
     <language>en_GB</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">31e6cd7813279</entry>
+      <entry key="editor">35dff61da356e</entry>
       <entry key="viewer">None</entry>
       <entry key="novel">343b3b7c1640c</entry>
       <entry key="outline">343b3b7c1640c</entry>
@@ -22,13 +22,13 @@
       <entry key="s425fd0" count="0" color="#32c800" shape="STAR">Finished</entry>
     </status>
     <importance>
-      <entry key="ie71627" count="12" color="#646464" shape="SQUARE">New</entry>
+      <entry key="ie71627" count="15" color="#646464" shape="SQUARE">New</entry>
       <entry key="i279946" count="2" color="#c83200" shape="BARS_1">Minor</entry>
       <entry key="i58104d" count="10" color="#c89600" shape="BARS_2">Major</entry>
       <entry key="ieeee7c" count="6" color="#32c800" shape="BARS_3">Main</entry>
     </importance>
   </settings>
-  <content items="50" novelWords="2825" notesWords="3648" novelChars="16291" notesChars="23787">
+  <content items="53" novelWords="2833" notesWords="4134" novelChars="16332" notesChars="27102">
     <item handle="343b3b7c1640c" parent="None" root="343b3b7c1640c" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="sb517b6" import="ie71627">Paprika Nicolas</name>
@@ -46,7 +46,7 @@
       <name status="s2cda52" import="ie71627" active="yes">Chapter 1: Genesis</name>
     </item>
     <item handle="646c719114941" parent="a7b093e9e0e86" root="343b3b7c1640c" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="yes" heading="H3" charCount="1799" wordCount="309" paraCount="17" cursorPos="468" />
+      <meta expanded="yes" heading="H3" charCount="1799" wordCount="309" paraCount="17" cursorPos="199" />
       <name status="s2cda52" import="ie71627" active="yes">Scene 1.1: Rotting In Bed</name>
     </item>
     <item handle="71e4e2ee80ea6" parent="646c719114941" root="343b3b7c1640c" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -74,7 +74,7 @@
       <name status="s2cda52" import="ie71627" active="yes">Scene 1.2: Bull Barges In</name>
     </item>
     <item handle="31e6cd7813279" parent="a7b093e9e0e86" root="343b3b7c1640c" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H3" charCount="1202" wordCount="194" paraCount="15" cursorPos="86" />
+      <meta expanded="no" heading="H3" charCount="1202" wordCount="194" paraCount="15" cursorPos="989" />
       <name status="s2cda52" import="ie71627" active="yes">Flashback: Gerald Helps Nicolas Study</name>
     </item>
     <item handle="3541a04417329" parent="a7b093e9e0e86" root="343b3b7c1640c" order="3" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -94,7 +94,7 @@
       <name status="sb517b6" import="ie71627" active="yes">Chapter ? 1</name>
     </item>
     <item handle="78968411bd433" parent="1adcef5ee8029" root="343b3b7c1640c" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="no" heading="H3" charCount="1255" wordCount="234" paraCount="10" cursorPos="1370" />
+      <meta expanded="no" heading="H3" charCount="1296" wordCount="242" paraCount="12" cursorPos="208" />
       <name status="s2cda52" import="ie71627" active="yes">Scene ?.?: Gay Club</name>
     </item>
     <item handle="b7418f847316d" parent="None" root="b7418f847316d" order="1" type="ROOT" class="PLOT">
@@ -134,7 +134,7 @@
       <name status="sb517b6" import="ieeee7c">Main Characters</name>
     </item>
     <item handle="35dff61da356e" parent="dff1cd81aa441" root="beaa36d0c984c" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="2546" wordCount="369" paraCount="10" cursorPos="2122" />
+      <meta expanded="no" heading="H1" charCount="2823" wordCount="404" paraCount="11" cursorPos="2370" />
       <name status="sb517b6" import="i58104d" active="yes">Nicolas</name>
     </item>
     <item handle="3996ebfde413b" parent="dff1cd81aa441" root="beaa36d0c984c" order="1" type="FILE" class="CHARACTER" layout="NOTE">
@@ -158,32 +158,44 @@
       <name status="sb517b6" import="i58104d" active="yes">Nathan</name>
     </item>
     <item handle="380ae815efe5f" parent="beaa36d0c984c" root="beaa36d0c984c" order="3" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H2" charCount="2350" wordCount="347" paraCount="8" cursorPos="42" />
+      <meta expanded="no" heading="H2" charCount="2441" wordCount="363" paraCount="9" cursorPos="740" />
       <name status="sb517b6" import="i58104d" active="yes">Anthony</name>
+    </item>
+    <item handle="82251596bab5e" parent="beaa36d0c984c" root="beaa36d0c984c" order="4" type="FILE" class="CHARACTER" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="2063" wordCount="305" paraCount="10" cursorPos="2215" />
+      <name status="sb517b6" import="ie71627" active="yes">Fergus</name>
     </item>
     <item handle="22a163233e35e" parent="None" root="22a163233e35e" order="3" type="ROOT" class="WORLD">
       <meta expanded="yes" />
       <name status="sb517b6" import="i58104d">Locations</name>
     </item>
-    <item handle="7f7570e23de55" parent="22a163233e35e" root="22a163233e35e" order="0" type="FILE" class="WORLD" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="192" wordCount="29" paraCount="2" cursorPos="292" />
+    <item handle="fa8dbce866b3f" parent="22a163233e35e" root="22a163233e35e" order="0" type="FILE" class="WORLD" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="365" wordCount="54" paraCount="2" cursorPos="606" />
+      <name status="sb517b6" import="ie71627" active="yes">Great Location: City</name>
+    </item>
+    <item handle="7f7570e23de55" parent="22a163233e35e" root="22a163233e35e" order="1" type="FILE" class="WORLD" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="213" wordCount="31" paraCount="3" cursorPos="375" />
       <name status="sb517b6" import="ieeee7c" active="yes">Nicolas’s Apartment</name>
     </item>
-    <item handle="7dab0fb7edb3b" parent="22a163233e35e" root="22a163233e35e" order="1" type="FILE" class="WORLD" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="159" wordCount="24" paraCount="2" cursorPos="273" />
+    <item handle="7dab0fb7edb3b" parent="22a163233e35e" root="22a163233e35e" order="2" type="FILE" class="WORLD" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="180" wordCount="26" paraCount="3" cursorPos="297" />
       <name status="sb517b6" import="ieeee7c" active="yes">Nicolas's Street</name>
     </item>
-    <item handle="7c03bd32ac64d" parent="22a163233e35e" root="22a163233e35e" order="2" type="FILE" class="WORLD" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="447" wordCount="76" paraCount="4" cursorPos="498" />
+    <item handle="7c03bd32ac64d" parent="22a163233e35e" root="22a163233e35e" order="3" type="FILE" class="WORLD" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="535" wordCount="90" paraCount="6" cursorPos="734" />
       <name status="sb517b6" import="i58104d" active="yes">Gay Bar Club</name>
     </item>
-    <item handle="1d1a7f1928341" parent="22a163233e35e" root="22a163233e35e" order="3" type="FILE" class="WORLD" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="307" wordCount="47" paraCount="2" cursorPos="414" />
+    <item handle="1d1a7f1928341" parent="22a163233e35e" root="22a163233e35e" order="4" type="FILE" class="WORLD" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="328" wordCount="49" paraCount="3" cursorPos="437" />
       <name status="sb517b6" import="ie71627" active="yes">Red Light District</name>
     </item>
-    <item handle="9c52b0c0f390f" parent="22a163233e35e" root="22a163233e35e" order="4" type="FILE" class="WORLD" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="196" wordCount="32" paraCount="2" cursorPos="268" />
+    <item handle="9c52b0c0f390f" parent="22a163233e35e" root="22a163233e35e" order="5" type="FILE" class="WORLD" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="217" wordCount="34" paraCount="3" cursorPos="290" />
       <name status="sb517b6" import="i58104d" active="yes">Nathan's Shop</name>
+    </item>
+    <item handle="774ffdf902245" parent="22a163233e35e" root="22a163233e35e" order="6" type="FILE" class="WORLD" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="370" wordCount="58" paraCount="4" cursorPos="420" />
+      <name status="sb517b6" import="ie71627" active="yes">Oil Rig</name>
     </item>
     <item handle="c23deafff0598" parent="None" root="c23deafff0598" order="4" type="ROOT" class="TIMELINE">
       <meta expanded="yes" />
@@ -206,7 +218,7 @@
       <name status="sb517b6" import="ie71627">Templates</name>
     </item>
     <item handle="44e18c098ed79" parent="da1e841efb42a" root="da1e841efb42a" order="0" type="FILE" class="TEMPLATE" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="798" wordCount="101" paraCount="8" cursorPos="119" />
+      <meta expanded="no" heading="H1" charCount="775" wordCount="97" paraCount="8" cursorPos="149" />
       <name status="sb517b6" import="i58104d" active="yes">Character</name>
     </item>
     <item handle="f1a95e65cb11f" parent="None" root="f1a95e65cb11f" order="7" type="ROOT" class="TRASH">

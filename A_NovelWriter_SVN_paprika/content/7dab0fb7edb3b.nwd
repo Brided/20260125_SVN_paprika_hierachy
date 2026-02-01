@@ -1,8 +1,8 @@
 %%~name: Nicolas's Street
 %%~path: 22a163233e35e/7dab0fb7edb3b
 %%~kind: WORLD/NOTE
-%%~hash: 77db204bfe64fa2ba5b3626c66dc6efd690f7cb1
-%%~date: 2026-01-28 12:44:14/2026-01-30 10:28:18
+%%~hash: 68959ba31a7837ecaf7014c8a873ec4586df5118
+%%~date: 2026-01-28 12:44:14/2026-02-01 13:23:35
 # Nicolas's Street
 
 @tag: Location_NicoAptStreet
@@ -15,3 +15,6 @@ Street where Nicolas's apartment is located. A quiet residential area with a few
 
 **Connected to**:
 @location: Location_NicoApt
+
+**Greater Location**:
+@location: Location_City

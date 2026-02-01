@@ -56,6 +56,13 @@ After years of theriopology education just to land at an office job he hated, he
 
 Therioplogy: study of animal behavior and social structures, anthropology of this world.
 
+## Motivations & Goals
+
+**Short-term Goals**: Find a job
+**Long-term Goals**: Find purpose in life, Gerald's affection
+**Internal Conflicts / Dilemmas**: How to express himself better, overcoming social anxiety
+**External Conflicts / Obstacles**: Unemployment, navigating relationships
+
 ## Relationships
 
 **Gerald**: Friend, Unrequited crush.

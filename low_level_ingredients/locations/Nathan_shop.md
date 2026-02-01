@@ -10,3 +10,6 @@ Nathan's Shop is a cozy, well-organized store located in a rather quiet part of 
 
 **Connected to**:
 % TODO???
+
+**Greater Location**:
+@location: Location_City

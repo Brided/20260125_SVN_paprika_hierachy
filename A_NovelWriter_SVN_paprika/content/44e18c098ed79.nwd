@@ -1,8 +1,8 @@
 %%~name: Character
 %%~path: da1e841efb42a/44e18c098ed79
 %%~kind: TEMPLATE/NOTE
-%%~hash: 3774132850659088e750c71c807e6f21ec7f8ed7
-%%~date: 2026-01-25 22:49:18/2026-01-28 12:31:46
+%%~hash: adccc0976e233da3544c17ede4d180eb64d633f9
+%%~date: 2026-01-25 22:49:18/2026-02-01 12:15:39
 # Character
 
 @tag: Char
@@ -18,10 +18,11 @@
 **Orientation**: 
 **Role**: 
 
-## Character Record
+## Description
 
 
-### Identity
+
+## Identity
 
 **Full name**: 
 **Nicknames / Aliases**: 
@@ -32,40 +33,38 @@
 **Occupation / Role**: 
 **Job**: 
 
-### Appearance
+## Appearance
 
 **Height / Build**: 
 **Eye Color**: 
 **Distinguishing Features**: 
 **Typical Clothing / Style**: 
 
-### Personality
+## Personality
 
 **Core Traits**: 
 **Strengths / Skills**: 
 **Weaknesses / Flaws**: 
 
-### Background
+## Background
 
 **Origin / Short History**: 
 **Key Life Events**: 
 **Family / Relationships**: 
 
-### Motivations & Goals
+## Motivations & Goals
 
 **Short-term Goals**: 
 **Long-term Goals**: 
 **Internal Conflicts / Dilemmas**: 
 
-### Relationships
+## Relationships
 
 **Character – Bond Type / Notes**: 
 
-### VN / Gameplay Info
+## VN / Gameplay Info
 
 **Route-specific Behavior**: 
 **Choice Flags / Triggers**: 
 **Sprite / Visual States**: 
 **Voice / Sound Notes**: 
-
-### Notes / Brainstorm
