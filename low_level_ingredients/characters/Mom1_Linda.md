@@ -15,7 +15,8 @@
 **Orientation**: Bisexual
 **Role**: Supporting character
 
-## Description
+## Short Description
+
 Linda is a warm and nurturing anthropomorphic eagle with brown-green and white feathers and hazel eyes. She typically dresses in casual, comfortable clothing suitable for her profession as a nurse.
 Linda is deeply caring and often worries about her son Nicolas's well-being, especially given his recent struggles with unemployment and social isolation. 
 She is married to Yasmine, Nicolas's stepmother, and together they form a supportive family environment for Nicolas. Linda's empathetic nature and patient demeanor make her a pillar of support for her son during his challenging times.
@@ -25,7 +26,7 @@ She is married to Yasmine, Nicolas's stepmother, and together they form a suppor
 **Full name**: Linda Davis
 **Nicknames / Aliases**: Mom, Mama Linda
 **Gender / Pronouns**: Female, She/Her
-**Species / Race**: Eagle
+**Species / Race**: Eagle, Anthropomorphic
 **Age / Birthday**: 24 years old at time of Nicolas's birth = approx. 46 years old
 **Orientation**: Bisexual
 **Occupation / Role**: Supporting character

@@ -28,11 +28,11 @@ He will accompany Nicolas in various situations, often providing a calming influ
 **Full name**: Gerald Moore
 **Nicknames / Aliases**: Gerry
 **Gender / Pronouns**: Male, He/Him
-**Species / Race**: Adaptaur bull
+**Species / Race**: Adaptaur bull, Anthropomorphic
 **Age / Birthday**: 27 years old
 **Orientation**: Bisexual
 **Occupation / Role**: Protagonist, Sidekick, Love interest
-**Job**: Fishmonger, unlike Nicolas, Gerald chose something tangible after university — the fish market felt real.
+**Job**: Fishmonger, unlike Nicolas, Gerald chose something tangible after university.
 
 **Contact name**: Big Bull Gerald
 
@@ -56,6 +56,7 @@ Doesn't hold grudges towards Nicolas for not interacting or remaining distant. H
 
 **Family / Relationships**: Friends with Nicolas, unknowingly reciprocal of love interest.
 **History / Past**: Gerald and Nicolas went to the same University where Gerald would often see Nicolas around, helping him out for various things: study, social events, and projects. They did not interact much after a bit of time. 
+**Education**: Chemistry degree, University graduate
 
 ## Relationships
 

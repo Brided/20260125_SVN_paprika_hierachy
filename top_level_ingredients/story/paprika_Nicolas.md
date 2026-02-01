@@ -17,10 +17,10 @@ Through a series of interactions with his acquaintances, including Nathan and Ge
 ## Chapters
 - Chapter 1: First Steps In Meeting People, Nathan
 %Short: Nicolas starts reaching out to friends, starting with Nathan and Gerald.
-  - Scene 1.1: Rotting In Bed        - draft
-  - Scene 1.2: Gerald Comes To Apt   - draft
-  - Scene 1.3: On The Street         - To be started
-  - Scene 1.4: Nathan's Shop         - To be started
+  - Scene 1.1: Rotting In Bed - draft
+  - Scene 1.2: Gerald Comes To Apt - draft
+  - Scene 1.3: On The Street - To be started
+  - Scene 1.4: Nathan's Shop - To be started
   
   - Scene 1.5: Dinner With Gerald (Connection Grows) - To be started
 
@@ -36,12 +36,13 @@ Through a series of interactions with his acquaintances, including Nathan and Ge
 - Chapter 3: Exploring New Connections, Anthony
 %Short: Anthony texted yesterday, Nicolas visits Anthony's restaurant.
 
-- Gerald stays over night (definitive)
+- Gerald stays over night (definitive) - draft
 
 
 - Chapter ? 1: Gerald…
 %Short: Nicolas realizes his growing feelings for Gerald during the previous chapters… Not yet confessed.
   - Scene ?.?: Gay Bar Club Visit
+  - Scene ?.?: Enlaced Together At the Club
 
 
 - Chapter N-1: Confession And Beyond
@@ -54,12 +55,12 @@ Through a series of interactions with his acquaintances, including Nathan and Ge
 ## Intermissions
 Intermissions between chapters are all short flashbacks to Nicolas's past.
 
-- Prologue: Catching a glimpse of Gerald (University Days)
+- Prologue: Catching a glimpse of Gerald (University Days) - draft
 %Short: Flashback to university days, where Nicolas first developed a crush on Gerald.
 - Then Chapter 1
 
 
-- Intermission: Late Nights Studying (University Days)
+- Intermission: Late Nights Studying (University Days) - draft
 - Paragraph_Gerald_Helps_Study
 %Short: Flashback to late nights studying with Gerald during university.
 - Inserted into Chapter 1 (when they go out to meet Nathan)

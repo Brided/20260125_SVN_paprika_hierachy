@@ -1,8 +1,8 @@
 %%~name: Nicolas
 %%~path: dff1cd81aa441/35dff61da356e
 %%~kind: CHARACTER/NOTE
-%%~hash: b40fb26ae1b15464140418bd38b18d7b386d0103
-%%~date: 2026-01-25 21:03:34/2026-02-01 12:17:10
+%%~hash: 335c9c48f3bd0d923b078fd5e2a29c66ad3e7b63
+%%~date: 2026-01-25 21:03:34/2026-02-01 20:19:27
 # Character: Nicolas
 
 @tag: Char_Nicolas
@@ -29,7 +29,7 @@ Nicolas is a young anthropomorphic crowned eagle with green and golden feathers 
 **Full name**: Nicolas Davis
 **Nicknames / Aliases**: Nick, Nickle
 **Gender / Pronouns**: Male, He/Him
-**Species / Race**: Crowned Eagle (Anthropomorphic)
+**Species / Race**: Crowned Eagle, Anthropomorphic
 **Age / Birthday**: 27 years old
 **Orientation**: Gay
 **Occupation / Role**: Protagonist
@@ -58,6 +58,7 @@ After years of theriopology education just to land at an office job he hated, he
 **Education**: Theriopology degree, University graduate
 
 Therioplogy: study of animal behavior and social structures, anthropology of this world.
+@custom: Concept_Theriopology
 
 ## Motivations & Goals
 

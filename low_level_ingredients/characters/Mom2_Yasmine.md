@@ -15,7 +15,7 @@
 **Orientation**: Bisexual
 **Role**: Supporting character
 
-## Description
+## Short Description
 
 Yasmine is a caring and supportive anthropomorphic fox with reddish-orange fur and a white underbelly. She typically dresses in sporty and casual attire, often seen in athletic wear.
 Yasmine is the stepmother of Nicolas and is married to Linda, Nicolas's biological mother. She works in politics and as an athletics coach, which reflects her energetic and outgoing personality.
@@ -27,7 +27,7 @@ She's a tad bit talkative and can sometimes be overly optimistic, but her heart 
 **Full name**: Yasmine Smith
 **Nicknames / Aliases**: Mom Yasmine, Mummy
 **Gender / Pronouns**: Female, She/Her
-**Species / Race**: Fox
+**Species / Race**: Fox, Anthropomorphic
 **Age / Birthday**: 43 years old
 **Orientation**: Bisexual
 **Occupation / Role**: Supporting character

@@ -1,6 +1,5 @@
-Ast 🍳🧠
-
-Yes—that’s a perfect way to think about VNs: a recursive recipe of units, each built from smaller “ingredients.” Let’s cook it systematically.
+AI slop AI slop AI slop AI slop AI slop AI slop AI slop AI slop AI slop AI slop 
+>:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( 
 
 1️⃣ Top-level “dish”: the visual novel
 
@@ -59,4 +58,5 @@ Level -1 recipes = test bowls / mixtures (might use substitutes)
 Level 0 = main dish assembly (VN logic)
 Full VN = plated, served meal
 
-You don’t need final chocolate chips (sprites) to bake the cake (mechanics)—just placeholders.
+AI slop AI slop AI slop AI slop AI slop AI slop AI slop AI slop AI slop AI slop 
+>:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:( >:(

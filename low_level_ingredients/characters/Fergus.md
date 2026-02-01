@@ -13,11 +13,13 @@
 **Orientation**: Gay
 **Role**: Tertiary character
 
-## Description
+## Short Description
+
+Sexy fat man.
 
 Fergus is a middle-aged anthropomorphic boxer dog with a rounded, chubby build. He has amber eyes and typically sports a fish-on-a-hook earring on his right ear, which adds to his distinctive look.
 
-Fergus often wears shirts with bust pockets and chinos, reflecting his practical yet approachable style.
+Fergus often wears shirts with bust pockets and chinos pants, reflecting his practical yet approachable style.
 
 As the owner of The Beary Chub Club, a popular gay bar in the city's Red Light District, Fergus is known for his grumpy demeanor and pouting resting face. Despite his seemingly unapproachable exterior, he cares deeply about his patrons and the success of his establishment.
 
@@ -26,7 +28,7 @@ As the owner of The Beary Chub Club, a popular gay bar in the city's Red Light D
 **Full name**: Fergus Joel Austin
 **Nicknames / Aliases**: Ferg
 **Gender / Pronouns**: Male, He/Him
-**Species / Race**: Dog, Boxer, Anthropomorphic
+**Species / Race**: Dog, Boxer~ mutt, Anthropomorphic
 **Age / Birthday**: 48 years old
 **Orientation**: Gay
 **Occupation / Role**: Tertiary character

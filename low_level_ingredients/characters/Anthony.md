@@ -13,7 +13,7 @@
 **Orientation**: Omni
 **Role**: Secondary character
 
-## Description
+## Short Description
 
 Anthony is a burly anthropomorphic komodo dragon with dark olive scales adorned with black-ultramarine patterns. He has a scar over his left eye, adding to his intimidating appearance. Despite his gruff demeanor, Anthony is a friendly and passionate chef who takes great pride in his culinary skills. He often wears a chef's uniform while working but prefers casual wear when off-duty. Anthony's confidence in the kitchen is matched by his dedication to mentoring others, including his close friend Gerald.
 
@@ -22,7 +22,7 @@ Anthony is a burly anthropomorphic komodo dragon with dark olive scales adorned 
 **Full name**: Anthony Aldridge
 **Nicknames / Aliases**: Tony
 **Gender / Pronouns**: Male, He/Him
-**Species / Race**: Komodo dragon
+**Species / Race**: Komodo dragon, Anthropomorphic
 **Age / Birthday**: 35 years old
 **Orientation**: Omnisexual
 **Occupation / Role**: Secondary character

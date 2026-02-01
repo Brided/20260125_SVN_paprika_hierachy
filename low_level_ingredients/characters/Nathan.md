@@ -13,7 +13,7 @@
 **Orientation**: Gay
 **Role**: Secondary character
 
-## Description
+## Short Description
 
 Nathan is a middle-aged anthropomorphic burly pangolin with a calm and collected demeanor. He has brown scales and warm brown eyes that reflect his thoughtful nature. Nathan typically dresses in orange clothing, which complements his earthy tones. He works as a store clerk, a job that allows him to interact with various customers and maintain a steady routine.
 
@@ -22,7 +22,7 @@ Nathan is a middle-aged anthropomorphic burly pangolin with a calm and collected
 **Full name**: Nathan Banks
 **Nicknames / Aliases**: Nate
 **Gender / Pronouns**: Male, He/Him
-**Species / Race**: Pangolin
+**Species / Race**: Pangolin, Anthropomorphic
 **Age / Birthday**: 42 years old
 **Orientation**: Gay
 **Occupation / Role**: Deuteragonist - Protagonist

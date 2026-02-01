@@ -15,7 +15,7 @@
 **Orientation**: Gay
 **Role**: Protagonist
 
-## Description
+## Short Description
 
 Nicolas is a young anthropomorphic crowned eagle with green and golden feathers and hazelnut eyes. He typically dresses in a checkered flannel shirt and denim jeans, reflecting his casual and laid-back personality. Despite his friendly demeanor, Nicolas struggles with social interactions, often finding it difficult to express himself clearly. He has a knack for speaking well but lacks the confidence to navigate conversations effectively. Nicolas is currently unemployed and spends much of his time contemplating his future and personal relationships, including a past crush on his friend Gerald.
 
@@ -24,7 +24,7 @@ Nicolas is a young anthropomorphic crowned eagle with green and golden feathers 
 **Full name**: Nicolas Davis
 **Nicknames / Aliases**: Nick, Nickle
 **Gender / Pronouns**: Male, He/Him
-**Species / Race**: Crowned Eagle (Anthropomorphic)
+**Species / Race**: Crowned Eagle, Anthropomorphic
 **Age / Birthday**: 27 years old
 **Orientation**: Gay
 **Occupation / Role**: Protagonist
@@ -54,7 +54,8 @@ This is partly because Nicolas had a crush on Gerald but never acted on it, lead
 After years of theriopology education just to land at an office job he hated, he got fired due to downsizing. Has been unemployed since then, struggling to find purpose and direction in life.
 **Education**: Theriopology degree, University graduate
 
-Therioplogy: study of animal behavior and social structures, anthropology of this world.
+Theriopology: study of animal behavior and social structures, anthropology of this world.
+@custom: Concept_Theriopology
 
 ## Motivations & Goals
 
