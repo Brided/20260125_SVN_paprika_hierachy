@@ -30,6 +30,8 @@ Nicolas is a young anthropomorphic crowned eagle with green and golden feathers 
 **Occupation / Role**: Protagonist
 **Job**: Unemployed
 
+**Quirks / Habits**: Fidget basically most of the time, has fidget toys
+
 ## Appearance
 
 **Height / Build**: 1.72m, Average

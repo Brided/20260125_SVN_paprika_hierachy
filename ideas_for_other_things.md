@@ -35,3 +35,17 @@ A story that uses subtle hints and descriptions to convey sensuality without exp
 ## Story with way too much display of affection and tender loving care than explicit scenes
 
 A story that emphasizes affection, tenderness, and emotional intimacy between characters, with minimal explicit content. The focus would be on the development of relationships through caring gestures, loving interactions, and deep emotional bonds.
+
+## Story where the main character is the only one left on the planet
+
+A story where the main character is the last person on Earth, exploring themes of isolation. Would be explored: how they cope with loneliness, their mental state, their lost loved ones, their daily routines and survival, and their reflections on personhood and existence.
+
+## Character concept: Crow of oceanic depths
+
+A crow from the deep ocean.
+- "Wise caw of the depths"
+
+## Story where main character is a human, desperately wants anthropomorphic animals to exist
+
+POV desperately wants anthropomorphic animals to exist instead of the "boring", "bland" humans.
+POV is a lonely person, feels disconnected from other humans, and finds solace in the idea.

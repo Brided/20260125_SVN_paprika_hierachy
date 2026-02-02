@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="2.8.2" hexVersion="0x020802f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-02-01 22:52:13">
-  <project id="ba72b21e-b4bc-48b6-9dd5-1b777d4eb4b2" saveCount="25" autoCount="767" editTime="148627">
+<novelWriterXML appVersion="2.8.2" hexVersion="0x020802f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-02-02 16:38:10">
+  <project id="ba72b21e-b4bc-48b6-9dd5-1b777d4eb4b2" saveCount="26" autoCount="775" editTime="161135">
     <name>20260125_SVN_paprika</name>
     <author>Brided</author>
   </project>
@@ -9,7 +9,7 @@
     <language>en_GB</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">51df087ebe4cc</entry>
+      <entry key="editor">35dff61da356e</entry>
       <entry key="viewer">None</entry>
       <entry key="novel">343b3b7c1640c</entry>
       <entry key="outline">343b3b7c1640c</entry>
@@ -28,7 +28,7 @@
       <entry key="ieeee7c" count="6" color="#32c800" shape="BARS_3">Main</entry>
     </importance>
   </settings>
-  <content items="55" novelWords="2833" notesWords="4194" novelChars="16332" notesChars="27620">
+  <content items="55" novelWords="2840" notesWords="4211" novelChars="16363" notesChars="27724">
     <item handle="343b3b7c1640c" parent="None" root="343b3b7c1640c" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="sb517b6" import="ie71627">Paprika Nicolas</name>
@@ -70,7 +70,7 @@
       <name status="s2cda52" import="ie71627" active="yes">Texting Finished</name>
     </item>
     <item handle="d97c1374a04b2" parent="a7b093e9e0e86" root="343b3b7c1640c" order="1" type="FILE" class="NOVEL" layout="DOCUMENT">
-      <meta expanded="yes" heading="H3" charCount="1806" wordCount="332" paraCount="16" cursorPos="838" />
+      <meta expanded="yes" heading="H3" charCount="1837" wordCount="339" paraCount="17" cursorPos="2070" />
       <name status="s2cda52" import="ie71627" active="yes">Scene 1.2: Bull Barges In</name>
     </item>
     <item handle="31e6cd7813279" parent="a7b093e9e0e86" root="343b3b7c1640c" order="2" type="FILE" class="NOVEL" layout="DOCUMENT">
@@ -134,11 +134,11 @@
       <name status="sb517b6" import="ieeee7c">Main Characters</name>
     </item>
     <item handle="35dff61da356e" parent="dff1cd81aa441" root="beaa36d0c984c" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="2822" wordCount="404" paraCount="11" cursorPos="2352" />
+      <meta expanded="no" heading="H1" charCount="2893" wordCount="416" paraCount="12" cursorPos="334" />
       <name status="sb517b6" import="i58104d" active="yes">Nicolas</name>
     </item>
     <item handle="3996ebfde413b" parent="dff1cd81aa441" root="beaa36d0c984c" order="1" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="2793" wordCount="402" paraCount="11" cursorPos="2837" />
+      <meta expanded="no" heading="H1" charCount="2813" wordCount="405" paraCount="12" cursorPos="319" />
       <name status="sb517b6" import="i58104d" active="yes">Gerald</name>
     </item>
     <item handle="a61fb293dacaa" parent="beaa36d0c984c" root="beaa36d0c984c" order="1" type="FOLDER" class="CHARACTER">
@@ -162,7 +162,7 @@
       <name status="sb517b6" import="i58104d" active="yes">Anthony</name>
     </item>
     <item handle="82251596bab5e" parent="beaa36d0c984c" root="beaa36d0c984c" order="4" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="2105" wordCount="312" paraCount="11" cursorPos="875" />
+      <meta expanded="no" heading="H1" charCount="2118" wordCount="314" paraCount="11" cursorPos="965" />
       <name status="sb517b6" import="i58104d" active="yes">Fergus</name>
     </item>
     <item handle="22a163233e35e" parent="None" root="22a163233e35e" order="3" type="ROOT" class="WORLD">

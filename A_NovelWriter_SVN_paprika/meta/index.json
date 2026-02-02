@@ -1,7 +1,7 @@
 {
   "novelWriter.meta": {
     "version": "0x020802f0",
-    "timestamp": "2026-02-01 22:52:13"
+    "timestamp": "2026-02-02 16:38:10"
   },
   "novelWriter.tagsIndex": {
     "prologue": {"name": "Prologue", "display": "Prologue", "handle": "857ed0089d5bd", "heading": "T0001", "class": "NOVEL"},
@@ -112,7 +112,7 @@
     },
     "d97c1374a04b2": {
       "T0001": {
-        "meta": {"level": "H3", "title": "Scene 1.2: Bull Barges In", "line": 1, "tag": "scene1.2", "counts": [1806, 332, 16]},
+        "meta": {"level": "H3", "title": "Scene 1.2: Bull Barges In", "line": 1, "tag": "scene1.2", "counts": [1837, 339, 17]},
         "refs": {"plotnote1.2": "@plot", "char_gerald": "@char", "char_nicolas": "@char,@pov", "location_nicoapt": "@location"},
         "summary": "Gerald the bull is here."
       }
@@ -264,32 +264,32 @@
         "summary": "Our indecisive protagonist."
       },
       "T0002": {
-        "meta": {"level": "H2", "title": "Profile Summary", "line": 7, "tag": "", "counts": [170, 22, 2]}
+        "meta": {"level": "H2", "title": "Profile Summary", "line": 7, "tag": "", "counts": [241, 34, 3]}
       },
       "T0003": {
-        "meta": {"level": "H2", "title": "Description", "line": 18, "tag": "", "counts": [610, 89, 1]}
+        "meta": {"level": "H2", "title": "Description", "line": 20, "tag": "", "counts": [610, 89, 1]}
       },
       "T0004": {
-        "meta": {"level": "H2", "title": "Identity", "line": 22, "tag": "", "counts": [263, 35, 1]}
+        "meta": {"level": "H2", "title": "Identity", "line": 24, "tag": "", "counts": [263, 35, 1]}
       },
       "T0005": {
-        "meta": {"level": "H2", "title": "Appearance", "line": 33, "tag": "", "counts": [190, 26, 1]}
+        "meta": {"level": "H2", "title": "Appearance", "line": 35, "tag": "", "counts": [190, 26, 1]}
       },
       "T0006": {
-        "meta": {"level": "H2", "title": "Personality", "line": 41, "tag": "", "counts": [280, 40, 1]}
+        "meta": {"level": "H2", "title": "Personality", "line": 43, "tag": "", "counts": [280, 40, 1]}
       },
       "T0007": {
-        "meta": {"level": "H2", "title": "Background", "line": 47, "tag": "", "counts": [784, 129, 2]},
+        "meta": {"level": "H2", "title": "Background", "line": 49, "tag": "", "counts": [784, 129, 2]},
         "refs": {"concept_theriopology": "@custom"}
       },
       "T0008": {
-        "meta": {"level": "H2", "title": "Motivations & Goals", "line": 58, "tag": "", "counts": [277, 35, 1]}
+        "meta": {"level": "H2", "title": "Motivations & Goals", "line": 60, "tag": "", "counts": [277, 35, 1]}
       },
       "T0009": {
-        "meta": {"level": "H2", "title": "Relationships", "line": 65, "tag": "", "counts": [92, 9, 1]}
+        "meta": {"level": "H2", "title": "Relationships", "line": 67, "tag": "", "counts": [92, 9, 1]}
       },
       "T0010": {
-        "meta": {"level": "H2", "title": "Reactions", "line": 70, "tag": "", "counts": [138, 17, 1]}
+        "meta": {"level": "H2", "title": "Reactions", "line": 72, "tag": "", "counts": [138, 17, 1]}
       }
     },
     "3996ebfde413b": {
@@ -298,25 +298,25 @@
         "summary": "Bull guy friend"
       },
       "T0002": {
-        "meta": {"level": "H2", "title": "Profile Summary", "line": 7, "tag": "", "counts": [219, 27, 2]}
+        "meta": {"level": "H2", "title": "Profile Summary", "line": 7, "tag": "", "counts": [239, 30, 3]}
       },
       "T0003": {
-        "meta": {"level": "H2", "title": "Description", "line": 18, "tag": "", "counts": [945, 149, 3]}
+        "meta": {"level": "H2", "title": "Description", "line": 20, "tag": "", "counts": [945, 149, 3]}
       },
       "T0004": {
-        "meta": {"level": "H2", "title": "Identity", "line": 26, "tag": "", "counts": [385, 50, 2]}
+        "meta": {"level": "H2", "title": "Identity", "line": 28, "tag": "", "counts": [385, 50, 2]}
       },
       "T0005": {
-        "meta": {"level": "H2", "title": "Appearance", "line": 39, "tag": "", "counts": [231, 29, 1]}
+        "meta": {"level": "H2", "title": "Appearance", "line": 41, "tag": "", "counts": [231, 29, 1]}
       },
       "T0006": {
-        "meta": {"level": "H2", "title": "Personality", "line": 48, "tag": "", "counts": [538, 81, 1]}
+        "meta": {"level": "H2", "title": "Personality", "line": 50, "tag": "", "counts": [538, 81, 1]}
       },
       "T0007": {
-        "meta": {"level": "H2", "title": "Background", "line": 55, "tag": "", "counts": [383, 56, 1]}
+        "meta": {"level": "H2", "title": "Background", "line": 57, "tag": "", "counts": [383, 56, 1]}
       },
       "T0008": {
-        "meta": {"level": "H2", "title": "Relationships", "line": 61, "tag": "", "counts": [75, 8, 1]}
+        "meta": {"level": "H2", "title": "Relationships", "line": 63, "tag": "", "counts": [75, 8, 1]}
       }
     },
     "bc695effca52f": {
@@ -524,7 +524,7 @@
         "meta": {"level": "H2", "title": "Short Description", "line": 16, "tag": "", "counts": [610, 99, 4]}
       },
       "T0004": {
-        "meta": {"level": "H2", "title": "Identity", "line": 26, "tag": "", "counts": [301, 45, 1]}
+        "meta": {"level": "H2", "title": "Identity", "line": 26, "tag": "", "counts": [314, 47, 1]}
       },
       "T0005": {
         "meta": {"level": "H2", "title": "Appearance", "line": 37, "tag": "", "counts": [235, 30, 1]}

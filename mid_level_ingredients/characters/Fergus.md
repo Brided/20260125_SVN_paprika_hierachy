@@ -26,7 +26,7 @@ As the owner of The Beary Chub Club, a popular gay bar in the city's Red Light D
 ## Identity
 
 **Full name**: Fergus Joel Austin
-**Nicknames / Aliases**: Ferg
+**Nicknames / Aliases**: Ferg, "papa bear"
 **Gender / Pronouns**: Male, He/Him
 **Species / Race**: Dog, Boxer~ mutt, Anthropomorphic
 **Age / Birthday**: 48 years old
