@@ -38,6 +38,7 @@ As the owner of The Beary Chub Club, a popular gay bar in the city's Red Light D
 
 **Height / Build**: 1.85m, rounded, chubby
 **Eye Color**: Amber
+**Fur colors**: Piebald, White, Brown with darker brown patches
 **Distinguishing Features**: pouting resting face, grumpy demeanor
 **Typical Clothing / Style**: Shirt with bust pockets, Chinos, fish-on-a-hook earring (Right ear)
 
@@ -54,7 +55,7 @@ As the owner of The Beary Chub Club, a popular gay bar in the city's Red Light D
 **Family / Relationships**: Single, no known family. Keeps personal life private.
 **Education**: High school diploma, learned business through experience.
 
-**Notes**: Not a boxer (sports) fan.
+**Notes**: Is a boxer fan but it's not because he is a boxer dog or anything, totally unrelated.
 
 ## Relationships
 
