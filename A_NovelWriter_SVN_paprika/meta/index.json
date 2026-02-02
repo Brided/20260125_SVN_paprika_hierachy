@@ -1,7 +1,7 @@
 {
   "novelWriter.meta": {
     "version": "0x020802f0",
-    "timestamp": "2026-02-02 16:54:09"
+    "timestamp": "2026-02-02 22:20:49"
   },
   "novelWriter.tagsIndex": {
     "prologue": {"name": "Prologue", "display": "Prologue", "handle": "857ed0089d5bd", "heading": "T0001", "class": "NOVEL"},
@@ -260,36 +260,36 @@
     },
     "35dff61da356e": {
       "T0001": {
-        "meta": {"level": "H1", "title": "Character: Nicolas", "line": 1, "tag": "char_nicolas", "counts": [18, 2, 0]},
+        "meta": {"level": "H1", "title": "Character: Nicolas", "line": 1, "tag": "char_nicolas", "counts": [37, 6, 1]},
         "summary": "Our indecisive protagonist."
       },
       "T0002": {
-        "meta": {"level": "H2", "title": "Profile Summary", "line": 7, "tag": "", "counts": [241, 34, 3]}
+        "meta": {"level": "H2", "title": "Profile Summary", "line": 9, "tag": "", "counts": [241, 34, 3]}
       },
       "T0003": {
-        "meta": {"level": "H2", "title": "Description", "line": 20, "tag": "", "counts": [610, 89, 1]}
+        "meta": {"level": "H2", "title": "Description", "line": 22, "tag": "", "counts": [610, 89, 1]}
       },
       "T0004": {
-        "meta": {"level": "H2", "title": "Identity", "line": 24, "tag": "", "counts": [263, 35, 1]}
+        "meta": {"level": "H2", "title": "Identity", "line": 26, "tag": "", "counts": [263, 35, 1]}
       },
       "T0005": {
-        "meta": {"level": "H2", "title": "Appearance", "line": 35, "tag": "", "counts": [190, 26, 1]}
+        "meta": {"level": "H2", "title": "Appearance", "line": 37, "tag": "", "counts": [190, 26, 1]}
       },
       "T0006": {
-        "meta": {"level": "H2", "title": "Personality", "line": 43, "tag": "", "counts": [280, 40, 1]}
+        "meta": {"level": "H2", "title": "Personality", "line": 45, "tag": "", "counts": [280, 40, 1]}
       },
       "T0007": {
-        "meta": {"level": "H2", "title": "Background", "line": 49, "tag": "", "counts": [784, 129, 2]},
+        "meta": {"level": "H2", "title": "Background", "line": 51, "tag": "", "counts": [784, 129, 2]},
         "refs": {"concept_theriopology": "@custom"}
       },
       "T0008": {
-        "meta": {"level": "H2", "title": "Motivations & Goals", "line": 60, "tag": "", "counts": [277, 35, 1]}
+        "meta": {"level": "H2", "title": "Motivations & Goals", "line": 62, "tag": "", "counts": [277, 35, 1]}
       },
       "T0009": {
-        "meta": {"level": "H2", "title": "Relationships", "line": 67, "tag": "", "counts": [92, 9, 1]}
+        "meta": {"level": "H2", "title": "Relationships", "line": 69, "tag": "", "counts": [92, 9, 1]}
       },
       "T0010": {
-        "meta": {"level": "H2", "title": "Reactions", "line": 72, "tag": "", "counts": [138, 17, 1]}
+        "meta": {"level": "H2", "title": "Reactions", "line": 74, "tag": "", "counts": [138, 17, 1]}
       }
     },
     "3996ebfde413b": {
@@ -514,29 +514,29 @@
     },
     "82251596bab5e": {
       "T0001": {
-        "meta": {"level": "H1", "title": "Character: Fergus", "line": 1, "tag": "char_fergus_owner", "counts": [17, 2, 0]},
+        "meta": {"level": "H1", "title": "Character: Fergus", "line": 1, "tag": "char_fergus_owner", "counts": [36, 6, 1]},
         "summary": "Fergus the owner of The Beary Chub Club"
       },
       "T0002": {
-        "meta": {"level": "H2", "title": "Profile Summary", "line": 7, "tag": "", "counts": [146, 17, 1]}
+        "meta": {"level": "H2", "title": "Profile Summary", "line": 9, "tag": "", "counts": [146, 17, 1]}
       },
       "T0003": {
-        "meta": {"level": "H2", "title": "Short Description", "line": 16, "tag": "", "counts": [610, 99, 4]}
+        "meta": {"level": "H2", "title": "Short Description", "line": 18, "tag": "", "counts": [610, 99, 4]}
       },
       "T0004": {
-        "meta": {"level": "H2", "title": "Identity", "line": 26, "tag": "", "counts": [314, 47, 1]}
+        "meta": {"level": "H2", "title": "Identity", "line": 28, "tag": "", "counts": [314, 47, 1]}
       },
       "T0005": {
-        "meta": {"level": "H2", "title": "Appearance", "line": 37, "tag": "", "counts": [235, 30, 1]}
+        "meta": {"level": "H2", "title": "Appearance", "line": 39, "tag": "", "counts": [292, 38, 1]}
       },
       "T0006": {
-        "meta": {"level": "H2", "title": "Personality", "line": 44, "tag": "", "counts": [201, 28, 1]}
+        "meta": {"level": "H2", "title": "Personality", "line": 47, "tag": "", "counts": [201, 28, 1]}
       },
       "T0007": {
-        "meta": {"level": "H2", "title": "Background", "line": 50, "tag": "", "counts": [538, 86, 2]}
+        "meta": {"level": "H2", "title": "Background", "line": 53, "tag": "", "counts": [598, 98, 2]}
       },
       "T0008": {
-        "meta": {"level": "H2", "title": "Relationships", "line": 59, "tag": "", "counts": [57, 5, 1]}
+        "meta": {"level": "H2", "title": "Relationships", "line": 62, "tag": "", "counts": [57, 5, 1]}
       }
     },
     "fa8dbce866b3f": {
